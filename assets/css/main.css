@@ -763,10 +763,10 @@
 			}
 		}
 
-		#bg {
-			background-size: 1500px auto;
-			width: 4500px;
-		} }
+	#bg {
+		background-size: 4500px auto;
+		width: 13500px;
+	}
 
 /* Normal */
 
@@ -845,10 +845,10 @@
 			}
 		}
 
-		#bg {
-			background-size: 750px auto;
-			width: 2250px;
-		} }
+	#bg {
+		background-size: 4500px auto;
+		width: 13500px;
+	}
 
 /* Mobile */
 
