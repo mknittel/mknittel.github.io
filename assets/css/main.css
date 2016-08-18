@@ -172,7 +172,7 @@
 /* BG */
 
 	#bg {
-		/*-moz-animation: bg 60s linear infinite;
+		-moz-animation: bg 60s linear infinite;
 		-webkit-animation: bg 60s linear infinite;
 		-ms-animation: bg 60s linear infinite;
 		animation: bg 60s linear infinite;
@@ -186,7 +186,7 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #62489f url("images/bg.jpg") bottom left;
+		background: #000000 url("images/bg.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
