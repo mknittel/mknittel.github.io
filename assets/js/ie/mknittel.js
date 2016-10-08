@@ -1,7 +1,7 @@
 $("res").hover(function() {
-    document.getElementById('magic_text').innerHTML = "Resume";
+    document.getElementById('magic_text').text("Resume");
 }, function() {
-    document.getElementById('magic_text').innerHTML = "";
+    document.getElementById('magic_text').text("");
 });
 
 $("fb").hover(function() {
