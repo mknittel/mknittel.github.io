@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Marina Knittel"
-description              : &description "As of Fall 2018, I am a PhD student at the University of Maryland studying Computer Science. I have the pleasure to work under Prof. MohammadTaghi Hajiaghayi in distributed graph algorithms, big data, and differential privacy."
-url                      : https://mknittel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mknittel/mknittel.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
