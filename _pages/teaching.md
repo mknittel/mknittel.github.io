@@ -5,7 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
 
 University of Maryland, College Park (lecturing TA)
 * **CMSC 250 Discrete Structures**: Fall 2018, Spring 2019
