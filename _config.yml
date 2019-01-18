@@ -83,7 +83,7 @@ author:
   name             : "Marina Knittel"
   avatar           : "profile.png"
   bio              : "1st year CS PhD at UMCP in distributed algorithms, big data, and differential privacy"
-  location         : "Location"
+  location         : #"Location"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=7EB47RUAAAAJ"
   email            : "mknittel@cs.umd.edu"
@@ -189,16 +189,16 @@ collections:
 # Defaults
 defaults:
   # _posts
-  #- scope:
-  #    path: ""
-  #    type: posts
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    read_time: true
-  #    comments: true
-  #    share: true
-  #    related: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
@@ -252,7 +252,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
