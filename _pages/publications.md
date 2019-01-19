@@ -16,4 +16,7 @@ Workshop
 
 Non-published Reports:
 * Marina Knittel, Yusuf Alnawakhtha, Nick Franzese, and Alexander Levine, "[Bounds and Approximations for Maximum Leaf Spanning Tree](https://mknittel.github.io/publications/Max-Leaf-Spanning-Tree)".
+* Marina Knittel, Jana Novotna, Jakub Pekarek, Vaclav Rozhon, Stepan Simsa, and Jakub Svoboda, "[Providing an Alternate Version of the Logspace Hierarchy to Recreate the Polynomial Hierarchy](https://mknittel.github.io/publications/Polynomial-Hierarchy)}.
 * Marina Knittel and Roozbeh Bassirian, "[Quantum Random Walks on Cayley Graphs](https://mknittel.github.io/publications/Quantum-Random-Walks)". 
+* Marina Knittel, "[Speech Recognition of Common Words](https://mknittel.github.io/publications/Speech-Recognition)".
+* Mackenzie Kong-Sivert, Marina Knittel, and Eleanor White, "[Modeling Large-Scale Adoption of Electric Vehicles](https://mknittel.github.io/publications/Modeling-Vehicle-Adoption)".
