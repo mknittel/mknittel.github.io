@@ -7,6 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 <embed src="../files/cv.pdf" width="800px" height="2100px" />
