@@ -13,3 +13,4 @@ Conference
 
 Workshop
 * David A. Chu, Grace Diehl, Marina Knittel, Liam Lloyd, James C. Boerkoel Jr., and Jeremy Frank, "Trade-offs Between Communication, Rescheduling, and Success Rate in Uncertain Multi-Agent Schedules".  ICAPS 28th Integrated Planning, Acting and Execution (IntEx), 32-40, 2018.
+[article](https://mknittel.github.io/publications/Chu_et_al_INTEX_2018)

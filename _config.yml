@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Marina Knittel"
 title_separator          : "-"
 name                     : &name "Marina Knittel"
 description              : &description "As of Fall 2018, I am a PhD in Computer Science at the University of Maryland, College Park. I have the pleasure to work under Prof. MohammadTaghi Hajiaghayi in distributed graph algorithms, big data, and differential privacy."
