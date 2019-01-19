@@ -13,3 +13,7 @@ Conference
 
 Workshop
 * David A. Chu, Grace Diehl, Marina Knittel, Liam Lloyd, James C. Boerkoel Jr., and Jeremy Frank, "[Trade-offs Between Communication, Rescheduling, and Success Rate in Uncertain Multi-Agent Schedules](https://mknittel.github.io/publications/Chu-et-al-INTEX-2018)".  ICAPS 28th Integrated Planning, Acting and Execution (IntEx), 32-40, 2018.
+
+Non-published Reports:
+* Marina Knittel, Yusuf Alnawakhtha, Nick Franzese, and Alexander Levine, "[Bounds and Approximations for Maximum Leaf Spanning Tree](https://mknittel.github.io/publications/Max-Leaf-Spanning-Tree)".
+* Marina Knittel and Roozbeh Bassirian, "[Quantum Random Walks on Cayley Graphs](https://mknittel.github.io/publications/Quantum-Random-Walks)". 

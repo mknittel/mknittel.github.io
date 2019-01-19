@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Trade-offs Between Communication, Rescheduling, and Success Rate in Uncertain Multi-Agent Schedules"
 collection: publications
 permalink: /publications/Chu-et-al-INTEX-2018
 ---
