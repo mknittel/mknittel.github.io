@@ -7,9 +7,9 @@ author_profile: true
 
 Marina Knittel
 
-Room 3204
+Room 5104
 
-AV Williams Building
+Brendan Iribe Center
 
 University of Maryland, College Park
 

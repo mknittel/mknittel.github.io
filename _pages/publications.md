@@ -5,14 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-Submissions
-* Soheil Behnezhad, Mahsa Derakhshan, MohammadTaghi Hajiaghayi, Marina Knittel, Hamed Saleh, "Edge Coloring Massive Graphs". 31st ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2019.
-
 Conference
-* Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  Ross  Mawhorter,  Ivy  Liu,  Gianluca  Gross,  Reiko Tojo, Ran Libeskind-Hadas and Yi-Chieh Wu, "Multiple Optimal Reconciliations with Gene Duplication,  Loss,  and  Coalescence".   APBC  IEEE/ACM  Transactions  on  Computational  Biology and Bioinformatics (TCBB), 2019.
+* Jordan R. Abrahams, David A. Chu, Grace Diehl, Marina Knittel, Judy Lin, William Lloyd, Jamec C. Boerkoel Jr., and Jeremy Frank, "DREAM: An Algorithm for Mitigating the Overhead of Robust Rescheduling". The 29th International Conference on Automated Planning and Scheduling (ICAPS), 2019..
+* Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  Ross  Mawhorter,  Ivy  Liu,  Gianluca  Gross,  Reiko Tojo, Ran Libeskind-Hadas and Yi-Chieh Wu, "Multiple Optimal Reconciliations with Gene Duplication,  Loss,  and  Coalescence". 17th Asia Pacific Bioinformatics Conference (APBC), 2019.
 
 Workshop
-* David A. Chu, Grace Diehl, Marina Knittel, Liam Lloyd, James C. Boerkoel Jr., and Jeremy Frank, "[Trade-offs Between Communication, Rescheduling, and Success Rate in Uncertain Multi-Agent Schedules](https://mknittel.github.io/publications/Chu-et-al-INTEX-2018)".  ICAPS 28th Integrated Planning, Acting and Execution (IntEx), 32-40, 2018.
+* David A. Chu, Grace Diehl, Marina Knittel, Liam Lloyd, James C. Boerkoel Jr., and Jeremy Frank, "[Trade-offs Between Communication, Rescheduling, and Success Rate in Uncertain Multi-Agent Schedules](https://mknittel.github.io/publications/Chu-et-al-INTEX-2018)".  The Integrated Planning, Acting and Execution Workshop (IntEx) at The 28th International Conference on Automated Planning and Scheduling (ICAPS), 32-40, 2018.
 
 Non-published Reports:
 * Marina Knittel, Yusuf Alnawakhtha, Nick Franzese, and Alexander Levine, "[Bounds and Approximations for Maximum Leaf Spanning Tree](https://mknittel.github.io/publications/Max-Leaf-Spanning-Tree)".
