@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Conference
-* Jordan R. Abrahams, David A. Chu, Grace Diehl, Marina Knittel, Judy Lin, William Lloyd, Jamec C. Boerkoel Jr., and Jeremy Frank, "DREAM: An Algorithm for Mitigating the Overhead of Robust Rescheduling". The 29th International Conference on Automated Planning and Scheduling (ICAPS), 2019..
+* Jordan R. Abrahams, David A. Chu, Grace Diehl, Marina Knittel, Judy Lin, William Lloyd, Jamec C. Boerkoel Jr., and Jeremy Frank, "DREAM: An Algorithm for Mitigating the Overhead of Robust Rescheduling". The 29th International Conference on Automated Planning and Scheduling (ICAPS), 2019.
 * Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  Ross  Mawhorter,  Ivy  Liu,  Gianluca  Gross,  Reiko Tojo, Ran Libeskind-Hadas and Yi-Chieh Wu, "Multiple Optimal Reconciliations with Gene Duplication,  Loss,  and  Coalescence". 17th Asia Pacific Bioinformatics Conference (APBC), 2019.
 
 Workshop
