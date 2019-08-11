@@ -9,7 +9,7 @@ Submitted
 * Marina Knittel and MohammadTaghi Hajiaghayi, "Matching Affinity Clustering: Improved Hierarchical Clustering at Scale with Guarantees". The 33rd Annual Conference on Neural Information Processing System (NeurIPS), 2019.
 
 Conference
-* Soheil Behnezhad, Mahsa Derakhshan, Mohammadtaghi Hajiaghayi, Marina Knittel, and Hamed Saleh, "Streaming and Massively Parallel Algorithms for Edge Coloring". The 27th Annual European Symposium on Algorithms (ESA), 2019.
+* Soheil Behnezhad, Mahsa Derakhshan, MohammadTaghi Hajiaghayi, Marina Knittel, and Hamed Saleh, "Streaming and Massively Parallel Algorithms for Edge Coloring". The 27th Annual European Symposium on Algorithms (ESA), 2019.
 * Jordan R. Abrahams, David A. Chu, Grace Diehl, Marina Knittel, Judy Lin, William Lloyd, Jamec C. Boerkoel Jr., and Jeremy Frank, "[DREAM: An Algorithm for Mitigating the Overhead of Robust Rescheduling](https://mknittel.github.io/publications/Abrahams-et-al-ICAPS-2019)". The 29th International Conference on Automated Planning and Scheduling (ICAPS), 2019.
 * Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  Ross  Mawhorter,  Ivy  Liu,  Gianluca  Gross,  Reiko Tojo, Ran Libeskind-Hadas, and Yi-Chieh Wu, "[Multiple Optimal Reconciliations with Gene Duplication,  Loss,  and  Coalescence](https://mknittel.github.io/publications/Du-et-al-APBC-2019)". 17th Asia Pacific Bioinformatics Conference (APBC), 2019.
 

@@ -1,4 +1,5 @@
 ---
+o
 layout: archive
 title: "Teaching"
 permalink: /teaching/
@@ -6,7 +7,8 @@ author_profile: true
 ---
 
 
-University of Maryland, College Park (lecturing TA)
+University of Maryland, College Park (lecturing and grading TA)
+* **CMSC 456 Cryptography**: Fall 2019
 * **CMSC 250 Discrete Structures**: Fall 2018, Spring 2019
 
 Harvey Mudd College (grader and tutor)
