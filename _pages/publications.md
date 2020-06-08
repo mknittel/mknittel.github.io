@@ -4,11 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-*All authors are listed in alphabetical order*
+*Most authors are listed in alphabetical order*
 
 Conference
 * <span style="color:#A0A0A0">[Submitted]</span> Sara Ahmadian, Alessandro Epasto, **Marina Knittel**, Ravi Kumar, Mohammad Mahdian, and Philip Pham, "Fair Hierarchical Clustering".
-* <span style="color:#A0A0A0">[Submitted]</span> MohammadTaghi Hajiaghayi and **Marina Knittel**, "Matching Affinity Clustering: Improved Hierarchical Clustering at Scale with Guarantees".
+* <span style="color:#A0A0A0">[Submitted]</span> Fontini Christia, Michael Curry, Constantinos Daskalakis, Erik Demaine, John P. Dickerson, MohammadTaghi Hajiaghayi, Adam Hesterberg, Marina Knittel, and Aidan Millif, "Scalable Equilibrium Computation in Multi-agent Influence Games on Networks".
+* <span style="color:#A0A0A0">[In Prep]</span> MohammadTaghi Hajiaghayi and **Marina Knittel**, "Matching Affinity Clustering: Improved Hierarchical Clustering at Scale with Guarantees".
 * Soheil Behnezhad, Mahsa Derakhshan, MohammadTaghi Hajiaghayi, **Marina Knittel**, and Hamed Saleh, "[Streaming and Massively Parallel Algorithms for Edge Coloring](https://mknittel.github.io/publications/Behnezhad-et-al-ESA-2019)". The 27th Annual European Symposium on Algorithms (ESA), 2019.
 * Jordan R. Abrahams, David A. Chu, Grace Diehl, **Marina Knittel**, Judy Lin, William Lloyd, Jamec C. Boerkoel Jr., and Jeremy Frank, "[DREAM: An Algorithm for Mitigating the Overhead of Robust Rescheduling](https://mknittel.github.io/publications/Abrahams-et-al-ICAPS-2019)". The 29th International Conference on Automated Planning and Scheduling (ICAPS), 2019.
 * Hoaxing  Du,  Yi  Sheng  Ong,  **Marina  Knittel**,  Ross  Mawhorter,  Ivy  Liu,  Gianluca  Gross,  Reiko Tojo, Ran Libeskind-Hadas, and Yi-Chieh Wu, "[Multiple Optimal Reconciliations with Gene Duplication,  Loss,  and  Coalescence](https://mknittel.github.io/publications/Du-et-al-APBC-2019)". 17th Asia Pacific Bioinformatics Conference (APBC), 2019.
