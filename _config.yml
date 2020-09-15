@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marina Knittel"
 title_separator          : "-"
 name                     : &name "Marina Knittel"
-description              : &description "As of Fall 2018, I am a PhD in Computer Science at the University of Maryland, College Park. I have the pleasure to work under Prof. MohammadTaghi Hajiaghayi in distributed graph algorithms for big data."
+description              : &description "I am a PhD in Computer Science at the University of Maryland, College Park. I have the pleasure to work under Prof. MohammadTaghi Hajiaghayi in distributed graph algorithms for big data."
 url                      : https://mknittel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mknittel/mknittel.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Marina Knittel"
   avatar           : "me.png"
-  bio              : "2nd year CS PhD at UMCP in distributed algorithms and big data."
+  bio              : "CS PhD student at UMCP in graph algorithms and big data."
   location         : #"Location"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=7EB47RUAAAAJ"
