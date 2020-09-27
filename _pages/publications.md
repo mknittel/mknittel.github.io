@@ -8,7 +8,7 @@ author_profile: true
 Computer Science traditionally uses competitive conferences (15-30% accepted) as the main publication venue.*
 
 Conference
-* <sup>abc</sup> Sara Ahmadian, Alessandro Epasto, Marina Knittel, Ravi Kumar, Mohammad Mahdian, and Philip Pham, "Fair Hierarchical Clustering". The Conference on Neural Information Processing Systems (NeurIPS), 2020.
+* <sup>abc</sup> Sara Ahmadian, Alessandro Epasto, Marina Knittel, Ravi Kumar, Mohammad Mahdian, and Philip Pham, "[Fair Hierarchical Clustering](https://mknittel.github.io/publications/Ahmadian-et-al-NeurIPS-2020)". The Conference on Neural Information Processing Systems (NeurIPS), 2020.
 * <sup>abc</sup><span style="color:#A0A0A0">[Submitted]</span> Fotini Christia, Michael Curry, Constantinos Daskalakis, Erik Demaine, John P. Dickerson, MohammadTaghi Hajiaghayi, Adam Hesterberg, Marina Knittel, and Aidan Millif, "Scalable Equilibrium Computation in Multi-agent Influence Games on Networks".
 * <span style="color:#A0A0A0">[In Preparation]</span> Marina Knittel, Samuel Dooley, John P. Dickerson, "The Binary Stable Market Problem".
 * <sup>abc</sup>MohammadTaghi Hajiaghayi and Marina Knittel, "Matching Affinity Clustering: Improved Hierarchical Clustering at Scale with Guarantees". The International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2020. Extended Abstract.
