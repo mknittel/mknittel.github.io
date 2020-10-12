@@ -16,6 +16,11 @@ Conference
 * Jordan R. Abrahams, David A. Chu, Grace Diehl, Marina Knittel, Judy Lin, William Lloyd, Jamec C. Boerkoel Jr., and Jeremy Frank, "[DREAM: An Algorithm for Mitigating the Overhead of Robust Rescheduling](https://mknittel.github.io/publications/Abrahams-et-al-ICAPS-2019)". The 29th International Conference on Automated Planning and Scheduling (ICAPS), 2019.
 * Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  Ross  Mawhorter,  Ivy  Liu,  Gianluca  Gross,  Reiko Tojo, Ran Libeskind-Hadas, and Yi-Chieh Wu, "[Multiple Optimal Reconciliations with Gene Duplication,  Loss,  and  Coalescence](https://mknittel.github.io/publications/Du-et-al-APBC-2019)". 17th Asia Pacific Bioinformatics Conference (APBC), 2019.
 
+Presentations:
+* "[Matching Affinity Clustering: Improved Hierarchical Clustering at Scale with Guarantees](https://underline.io/lecture/357-matching-affinity-clustering-improved-hierarchical-clustering-at-scale-with-guarantees)". AAMAS-2020.
+* "Fair Hierarchical Clustering". The Sets & Partitions Workshop at NeurIPS-20.
+* "Trade-offs between Communication, Rescheduling, and Success Rate in Uncertain Multi-Agent Schedules". IntEX Workshop at ICAPS-18.
+
 Short papers, etc.
 * <sup>abc</sup> Sara Ahmadian, Alessandro Epasto, Marina Knittel, Ravi Kumar, Mohammad Mahdian, and Philip Pham, "Fair Hierarchical Clustering". The Sets & Partitions Workshop at the 33rd Conference on Neural Information Processing (NeurIPS), 2019. Workshop; subsumed by conference submission. 
 * <sup>abc</sup>Soheil Behnezhad, Mahsa Derakhshan, MohammadTaghi Hajiaghayi, Marina Knittel, and Hamed Saleh, "Streaming and Massively Parallel Algorithms for Edge Coloring". The 33rd International Symposium on Distributed Computing (DISC), 2019. Brief announcement; subsumed by ESA-19 paper.
