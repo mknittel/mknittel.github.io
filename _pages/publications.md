@@ -18,7 +18,7 @@ Conference
 * Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  Ross  Mawhorter,  Ivy  Liu,  Gianluca  Gross,  Reiko Tojo, Ran Libeskind-Hadas, and Yi-Chieh Wu, "[Multiple Optimal Reconciliations with Gene Duplication,  Loss,  and  Coalescence](https://mknittel.github.io/publications/Du-et-al-APBC-2019)". 17th Asia Pacific Bioinformatics Conference (APBC), 2019.
 
 Presentations:
-* "[Matching Affinity Clustering: Improved Hierarchical Clustering at Scale with Guarantees](https://underline.io/lecture/357-matching-affinity-clustering-improved-hierarchical-clustering-at-scale-with-guarantees)". AAMAS-2020.
+* "[Matching Affinity Clustering: Improved Hierarchical Clustering at Scale with Guarantees](https://underline.io/lecture/357-matching-affinity-clustering-improved-hierarchical-clustering-at-scale-with-guarantees)". AAMAS-20.
 * "Fair Hierarchical Clustering". The Sets & Partitions Workshop at NeurIPS-20.
 * "Trade-offs between Communication, Rescheduling, and Success Rate in Uncertain Multi-Agent Schedules". IntEX Workshop at ICAPS-18.
 
