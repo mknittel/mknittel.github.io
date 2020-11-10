@@ -8,10 +8,10 @@ author_profile: true
 Computer Science traditionally uses competitive conferences (15-30% accepted) as the main publication venue.*
 
 Conference
-* <span style="color:#A0A0A0">[Submitted]</span> Marina Knittel, Samuel Dooley, and John P. Dickerson, "The Binary Affiliate Matching Problem: Approval-Based Matching with Applicant-Employer Relations".
-* <sup>abc</sup><span style="color:#A0A0A0">[Submitted]</span> Fotini Christia, Michael Curry, Constantinos Daskalakis, Erik Demaine, John P. Dickerson, MohammadTaghi Hajiaghayi, Adam Hesterberg, Marina Knittel, and Aidan Millif, "Scalable Equilibrium Computation in Multi-agent Influence Games on Networks".
 * <sup>abc</sup><span style="color:#A0A0A0">[Submitted]</span> MohammadTaghi Hajiaghayi, Marina Knittel, Hamed Saleh, and Hsin-Hao Su, "Massively Parallel Constant-round Tree Contraction".
 * <sup>abc</sup><span style="color:#A0A0A0">[Submitted]</span> AmirMohsen Ahanchi, Alexandr Andoni, MohammadTaghi Hajiaghayi, Marina Knittel, and Peilin Zhong, "Massively Parallel Tree Embeddings for High Dimensional Spaces".
+* <span style="color:#A0A0A0">[Submitted]</span> Marina Knittel, Samuel Dooley, and John P. Dickerson, "The Binary Affiliate Matching Problem: Approval-Based Matching with Applicant-Employer Relations".
+* <sup>abc</sup><span style="color:#A0A0A0">[Submitted]</span> Fotini Christia, Michael Curry, Constantinos Daskalakis, Erik Demaine, John P. Dickerson, MohammadTaghi Hajiaghayi, Adam Hesterberg, Marina Knittel, and Aidan Millif, "Scalable Equilibrium Computation in Multi-agent Influence Games on Networks".
 * <sup>abc</sup> Sara Ahmadian, Alessandro Epasto, Marina Knittel, Ravi Kumar, Mohammad Mahdian, and Philip Pham, "[Fair Hierarchical Clustering](https://mknittel.github.io/publications/Ahmadian-et-al-NeurIPS-2020)". The Conference on Neural Information Processing Systems (NeurIPS), 2020.
 * <sup>abc</sup>MohammadTaghi Hajiaghayi and Marina Knittel, "Matching Affinity Clustering: Improved Hierarchical Clustering at Scale with Guarantees". The International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2020. Extended Abstract.
 * <sup>abc</sup>Soheil Behnezhad, Mahsa Derakhshan, MohammadTaghi Hajiaghayi, Marina Knittel, and Hamed Saleh, "[Streaming and Massively Parallel Algorithms for Edge Coloring](https://mknittel.github.io/publications/Behnezhad-et-al-ESA-2019)". The 27th Annual European Symposium on Algorithms (ESA), 2019.
