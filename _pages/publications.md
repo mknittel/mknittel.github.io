@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 *<sup>abc</sup>Denotes authors are listed in alphabetical order. This is convention in theoretical computer science.
-Computer Science traditionally uses competitive conferences (15-30% accepted) as the main publication venue.*
+Computer science traditionally uses competitive conferences (15-30% accepted) as the main publication venue.*
 
 Conference
 * <sup>abc</sup><span style="color:#A0A0A0">[Submitted]</span> MohammadTaghi Hajiaghayi, Marina Knittel, Hamed Saleh, and Hsin-Hao Su, "Massively Parallel Constant-round Tree Contraction".
