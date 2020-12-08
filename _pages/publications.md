@@ -45,16 +45,16 @@ Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  Ross  Mawhorter,  Ivy  Liu,  Gi
 *17th Asia Pacific Bioinformatics Conference (APBC), 2019*
 
 ## Presentations:
-**[Fair Hierarchical Clustering](https://studio.slideslive.com/web_recorder/share/20201021T184333Z__NeurIPS_posters__18177__fair-hierarchical-clustering?s=5fd2be29-ac54-4ee2-ae2e-adc3404b7fcf)**
+**[Fair Hierarchical Clustering](https://studio.slideslive.com/web_recorder/share/20201021T184333Z__NeurIPS_posters__18177__fair-hierarchical-clustering?s=5fd2be29-ac54-4ee2-ae2e-adc3404b7fcf)**<br/>
 *NeurIPS-21, Short talk*
 
-**[Matching Affinity Clustering: Improved Hierarchical Clustering at Scale with Guarantees](https://underline.io/lecture/357-matching-affinity-clustering-improved-hierarchical-clustering-at-scale-with-guarantees)** 
+**[Matching Affinity Clustering: Improved Hierarchical Clustering at Scale with Guarantees](https://underline.io/lecture/357-matching-affinity-clustering-improved-hierarchical-clustering-at-scale-with-guarantees)** <br/>
 *AAMAS-20*
 
-**Fair Hierarchical Clustering**
+**Fair Hierarchical Clustering**<br/>
 *The Sets & Partitions Workshop at NeurIPS-20*
 
-**Trade-offs between Communication, Rescheduling, and Success Rate in Uncertain Multi-Agent Schedules**
+**Trade-offs between Communication, Rescheduling, and Success Rate in Uncertain Multi-Agent Schedules**<br/>
 *IntEX Workshop at ICAPS-18*
 
 ## Short papers, etc.
@@ -62,10 +62,10 @@ Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  Ross  Mawhorter,  Ivy  Liu,  Gi
 <sup>abc</sup> Sara Ahmadian, Alessandro Epasto, Marina Knittel, Ravi Kumar, Mohammad Mahdian, and Philip Pham<br/>
 *The Sets & Partitions Workshop at the 33rd Conference on Neural Information Processing (NeurIPS), 2019. Workshop; subsumed by conference submission* 
 
-**Streaming and Massively Parallel Algorithms for Edge Coloring**
-<sup>abc</sup>Soheil Behnezhad, Mahsa Derakhshan, MohammadTaghi Hajiaghayi, Marina Knittel, and Hamed Saleh
+**Streaming and Massively Parallel Algorithms for Edge Coloring**<br/>
+<sup>abc</sup>Soheil Behnezhad, Mahsa Derakhshan, MohammadTaghi Hajiaghayi, Marina Knittel, and Hamed Saleh<br/>
 *The 33rd International Symposium on Distributed Computing (DISC), 2019. Brief announcement; subsumed by ESA-19 paper*
 
-**[Trade-offs Between Communication, Rescheduling, and Success Rate in Uncertain Multi-Agent Schedules](https://mknittel.github.io/publications/Chu-et-al-INTEX-2018)**
-David A. Chu, Grace Diehl, Marina Knittel, Liam Lloyd, James C. Boerkoel Jr., and Jeremy Frank
+**[Trade-offs Between Communication, Rescheduling, and Success Rate in Uncertain Multi-Agent Schedules](https://mknittel.github.io/publications/Chu-et-al-INTEX-2018)**<br/>
+David A. Chu, Grace Diehl, Marina Knittel, Liam Lloyd, James C. Boerkoel Jr., and Jeremy Frank<br/>
 *The Integrated Planning, Acting and Execution Workshop (IntEx) at The 28th International Conference on Automated Planning and Scheduling (ICAPS), 2018. Workshop; subsumed by ICAPS-19 paper.*
