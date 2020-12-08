@@ -7,7 +7,7 @@ author_profile: true
 *<sup>abc</sup>Denotes authors are listed in alphabetical order. This is convention in theoretical computer science.
 Computer science traditionally uses competitive conferences (15-30% accepted) as the main publication venue.*
 
-Conference
+# Conference
 * <sup>abc</sup><span style="color:#A0A0A0">[Submitted]</span> MohammadTaghi Hajiaghayi, Marina Knittel, Hamed Saleh, and Hsin-Hao Su, "Massively Parallel Constant-round Tree Contraction".
 * <sup>abc</sup><span style="color:#A0A0A0">[Submitted]</span> AmirMohsen Ahanchi, Alexandr Andoni, MohammadTaghi Hajiaghayi, Marina Knittel, and Peilin Zhong, "Massively Parallel Tree Embeddings for High Dimensional Spaces".
 * <span style="color:#A0A0A0">[Submitted]</span> Marina Knittel, Samuel Dooley, and John P. Dickerson, "The Binary Affiliate Matching Problem: Approval-Based Matching with Applicant-Employer Relations".
