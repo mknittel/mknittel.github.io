@@ -8,7 +8,7 @@ author_profile: true
 Computer science traditionally uses competitive conferences (15-30% accepted) as the main publication venue.*
 
 ## Conference
-<span style="font-size:11px">
+<div style="font-size:14px">
 **Massively Parallel Constant-round Tree Contraction**<br/>
 <sup>abc</sup> MohammadTaghi Hajiaghayi, Marina Knittel, Hamed Saleh, and Hsin-Hao Su<br/>
 <span style="color:#A0A0A0">*Under submission*</span>
@@ -44,10 +44,10 @@ Jordan R. Abrahams, David A. Chu, Grace Diehl, Marina Knittel, Judy Lin, William
 **[Multiple Optimal Reconciliations with Gene Duplication,  Loss,  and  Coalescence](https://mknittel.github.io/publications/Du-et-al-APBC-2019)**<br/>
 Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  Ross  Mawhorter,  Ivy  Liu,  Gianluca  Gross,  Reiko Tojo, Ran Libeskind-Hadas, and Yi-Chieh Wu<br/>
 *17th Asia Pacific Bioinformatics Conference (APBC), 2019*
-</span>
+</div>
 
 ## Presentations:
-<span style="font-size:11px">
+<div style="font-size:14px">
 **[Fair Hierarchical Clustering](https://studio.slideslive.com/web_recorder/share/20201021T184333Z__NeurIPS_posters__18177__fair-hierarchical-clustering?s=5fd2be29-ac54-4ee2-ae2e-adc3404b7fcf)**<br/>
 *NeurIPS-21, Short talk*
 
@@ -59,10 +59,10 @@ Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  Ross  Mawhorter,  Ivy  Liu,  Gi
 
 **Trade-offs between Communication, Rescheduling, and Success Rate in Uncertain Multi-Agent Schedules**<br/>
 *IntEX Workshop at ICAPS-18*
-</span>
+</div>
 
 ## Short papers, etc.
-<span style="font-size:11px">
+<div style="font-size:14px">
 **Fair Hierarchical Clustering**<br/>
 <sup>abc</sup> Sara Ahmadian, Alessandro Epasto, Marina Knittel, Ravi Kumar, Mohammad Mahdian, and Philip Pham<br/>
 *The Sets & Partitions Workshop at the 33rd Conference on Neural Information Processing (NeurIPS), 2019. Workshop; subsumed by conference submission* 
@@ -74,4 +74,4 @@ Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  Ross  Mawhorter,  Ivy  Liu,  Gi
 **[Trade-offs Between Communication, Rescheduling, and Success Rate in Uncertain Multi-Agent Schedules](https://mknittel.github.io/publications/Chu-et-al-INTEX-2018)**<br/>
 David A. Chu, Grace Diehl, Marina Knittel, Liam Lloyd, James C. Boerkoel Jr., and Jeremy Frank<br/>
 *The Integrated Planning, Acting and Execution Workshop (IntEx) at The 28th International Conference on Automated Planning and Scheduling (ICAPS), 2018. Workshop; subsumed by ICAPS-19 paper.*
-</span>
+</div>
