@@ -1,7 +1,5 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
+layout: default
 author_profile: true
 ---
 *<sup>abc</sup>Denotes authors are listed in **alphabetical order**. This is convention in theoretical computer science.
