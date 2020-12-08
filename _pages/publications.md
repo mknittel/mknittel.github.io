@@ -16,11 +16,11 @@ Computer science traditionally uses competitive conferences (15-30% accepted) as
 <sup>abc</sup> AmirMohsen Ahanchi, Alexandr Andoni, MohammadTaghi Hajiaghayi, Marina Knittel, and Peilin Zhong<br/>
 <span style="color:#A0A0A0">*Under submission*</span> 
 
-The Binary Affiliate Matching Problem: Approval-Based Matching with Applicant-Employer Relations<br/>
+**The Binary Affiliate Matching Problem: Approval-Based Matching with Applicant-Employer Relations**<br/>
 Marina Knittel, Samuel Dooley, and John P. Dickerson<br/>
 <span style="color:#A0A0A0">*Under submission*</span> 
 
-Scalable Equilibrium Computation in Multi-agent Influence Games on Networks<br/>
+**Scalable Equilibrium Computation in Multi-agent Influence Games on Networks**<br/>
 <sup>abc</sup> Fotini Christia, Michael Curry, Constantinos Daskalakis, Erik Demaine, John P. Dickerson, MohammadTaghi Hajiaghayi, Adam Hesterberg, Marina Knittel, and Aidan Millif<br/>
 *The Association for the Advancement of Artificial Intelligence (AAAI), 2021*
 
