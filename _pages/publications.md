@@ -8,11 +8,13 @@ author_profile: true
 Computer science traditionally uses competitive conferences (15-30% accepted) as the main publication venue.*
 
 ## Conference
-Massively Parallel Constant-round Tree Contraction
-<sup>abc</sup>MohammadTaghi Hajiaghayi, Marina Knittel, Hamed Saleh, and Hsin-Hao Su
+Massively Parallel Constant-round Tree Contraction<br/>
+<sup>abc</sup>MohammadTaghi Hajiaghayi, Marina Knittel, Hamed Saleh, and Hsin-Hao Su<br/>
 <span style="color:#A0A0A0">*Under submission*</span>
 
-<sup>abc</sup><span style="color:#A0A0A0">[Submitted]</span> AmirMohsen Ahanchi, Alexandr Andoni, MohammadTaghi Hajiaghayi, Marina Knittel, and Peilin Zhong, "Massively Parallel Tree Embeddings for High Dimensional Spaces".
+Massively Parallel Tree Embeddings for High Dimensional Space<br/>
+<sup>abc</sup>AmirMohsen Ahanchi, Alexandr Andoni, MohammadTaghi Hajiaghayi, Marina Knittel, and Peilin Zhong<br/>
+<span style="color:#A0A0A0">*Under submission*</span> 
 
 <span style="color:#A0A0A0">[Submitted]</span> Marina Knittel, Samuel Dooley, and John P. Dickerson, "The Binary Affiliate Matching Problem: Approval-Based Matching with Applicant-Employer Relations".
 
