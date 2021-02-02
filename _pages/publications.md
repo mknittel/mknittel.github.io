@@ -9,23 +9,23 @@ Computer science traditionally uses competitive conferences (15-30% accepted) as
 
 ## Conference
 **Massively Parallel Constant-round Tree Contraction**<br/>
-<sup>abc</sup> [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, Hamed Saleh, and Hsin-Hao Su<br/>
+<sup>abc</sup> [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, Hamed Saleh, and [Hsin-Hao Su](https://sites.google.com/site/distributedhsinhao/)<br/>
 <span style="color:#A0A0A0">*Under submission*</span>
 
 **Massively Parallel Tree Embeddings for High Dimensional Space**<br/>
-<sup>abc</sup> AmirMohsen Ahanchi, Alexandr Andoni, [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and Peilin Zhong<br/>
+<sup>abc</sup> AmirMohsen Ahanchi, [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and [Peilin Zhong](http://www.cs.columbia.edu/~peilin/)<br/>
 <span style="color:#A0A0A0">*Under submission*</span> 
 
 **The Binary Affiliate Matching Problem: Approval-Based Matching with Applicant-Employer Relations**<br/>
-Marina Knittel, Samuel Dooley, and John P. Dickerson<br/>
+Marina Knittel, Samuel Dooley, and [John P. Dickerson](http://jpdickerson.com/)<br/>
 <span style="color:#A0A0A0">*Under submission*</span> 
 
 **Scalable Equilibrium Computation in Multi-agent Influence Games on Networks**<br/>
-<sup>abc</sup> Fotini Christia, Michael Curry, Constantinos Daskalakis, Erik Demaine, John P. Dickerson, [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Adam Hesterberg, Marina Knittel, and Aidan Millif<br/>
+<sup>abc</sup> [Fotini Christia](http://fotini.mit.edu/), [Michael Curry](http://www.cs.umd.edu/~curry/), [Constantinos Daskalakis](http://people.csail.mit.edu/costis/), [Erik Demaine](http://erikdemaine.org/), [John P. Dickerson](http://jpdickerson.com/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Adam Hesterberg, Marina Knittel, and [Aidan Millif](https://www.aidanmilliff.com/)<br/>
 *The Association for the Advancement of Artificial Intelligence (AAAI), 2021*
 
 **[Fair Hierarchical Clustering](https://mknittel.github.io/publications/Ahmadian-et-al-NeurIPS-2020)**<br/>
-<sup>abc</sup> Sara Ahmadian, Alessandro Epasto, Marina Knittel, Ravi Kumar, Mohammad Mahdian, and Philip Pham<br/>
+<sup>abc</sup> [Sara Ahmadian](https://research.google/people/106920/), [Alessandro Epasto](https://epasto.org/), Marina Knittel, [Ravi Kumar](https://sites.google.com/site/ravik53/), [Mohammad Mahdian](https://research.google/people/MohammadMahdian/), [Benjamin Moseley](http://www.andrew.cmu.edu/user/moseleyb/), [Philip Pham](https://research.google/people/PhilipPham/), [Sergei Vassilvitskii](http://theory.stanford.edu/~sergei/), and [Yuyan Wang](wang-yuyan.github.io)<br/>
 *The Conference on Neural Information Processing Systems (NeurIPS), 2020*
 
 **[Matching Affinity Clustering: Improved Hierarchical Clustering at Scale with Guarantees](http://www.ifaamas.org/Proceedings/aamas2020/pdfs/p1864.pdf)**<br/>
@@ -33,7 +33,7 @@ Marina Knittel, Samuel Dooley, and John P. Dickerson<br/>
 *The International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2020 (Extended Abstract)*
 
 **[Streaming and Massively Parallel Algorithms for Edge Coloring](https://mknittel.github.io/publications/Behnezhad-et-al-ESA-2019)**<br/>
-<sup>abc</sup>Soheil Behnezhad, Mahsa Derakhshan, [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and Hamed Saleh<br/>
+<sup>abc</sup>[Soheil Behnezhad](http://behnezhad.com/), [Mahsa Derakhshan](http://cs.umd.edu/~mahsa/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and Hamed Saleh<br/>
 *The 27th Annual European Symposium on Algorithms (ESA), 2019*
 
 **[DREAM: An Algorithm for Mitigating the Overhead of Robust Rescheduling](https://mknittel.github.io/publications/Abrahams-et-al-ICAPS-2019)**<br/>
@@ -62,11 +62,11 @@ Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  Ross  Mawhorter,  Ivy  Liu,  Gi
 
 ## Short papers, etc.
 **Fair Hierarchical Clustering**<br/>
-<sup>abc</sup> Sara Ahmadian, Alessandro Epasto, Marina Knittel, Ravi Kumar, Mohammad Mahdian, and Philip Pham<br/>
+<sup>abc</sup> [Sara Ahmadian](https://research.google/people/106920/), [Alessandro Epasto](https://epasto.org/), Marina Knittel, [Ravi Kumar](https://sites.google.com/site/ravik53/), [Mohammad Mahdian](https://research.google/people/MohammadMahdian/), and [Philip Pham](https://research.google/people/PhilipPham/)<br/>
 *The Sets & Partitions Workshop at the 33rd Conference on Neural Information Processing (NeurIPS), 2019. Workshop; subsumed by conference submission* 
 
 **Streaming and Massively Parallel Algorithms for Edge Coloring**<br/>
-<sup>abc</sup>Soheil Behnezhad, Mahsa Derakhshan, [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and Hamed Saleh<br/>
+<sup>abc</sup>[Soheil Behnezhad](http://behnezhad.com/), [Mahsa Derakhshan](http://cs.umd.edu/~mahsa/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and Hamed Saleh<br/>
 *The 33rd International Symposium on Distributed Computing (DISC), 2019. Brief announcement; subsumed by ESA-19 paper*
 
 **[Trade-offs Between Communication, Rescheduling, and Success Rate in Uncertain Multi-Agent Schedules](https://mknittel.github.io/publications/Chu-et-al-INTEX-2018)**<br/>
