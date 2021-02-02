@@ -18,7 +18,7 @@ Computer science traditionally uses competitive conferences (15-30% accepted) as
 
 **The Binary Affiliate Matching Problem: Approval-Based Matching with Applicant-Employer Relations**<br/>
 Marina Knittel, Samuel Dooley, and [John P. Dickerson](http://jpdickerson.com/)<br/>
-<span style="color:#A0A0A0">*Under submission*</span> 
+<span style="color:#A0A0A0">*In preparation*</span> 
 
 **Scalable Equilibrium Computation in Multi-agent Influence Games on Networks**<br/>
 <sup>abc</sup> [Fotini Christia](http://fotini.mit.edu/), [Michael Curry](http://www.cs.umd.edu/~curry/), [Constantinos Daskalakis](http://people.csail.mit.edu/costis/), [Erik Demaine](http://erikdemaine.org/), [John P. Dickerson](http://jpdickerson.com/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Adam Hesterberg, Marina Knittel, and [Aidan Millif](https://www.aidanmilliff.com/)<br/>
