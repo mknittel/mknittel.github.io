@@ -14,4 +14,4 @@ Previously, I attended [Harvey Mudd College](https://www.cs.hmc.edu/). In 2018, 
 
 This summer, I was a Research Scientist Intern at Amazon. In previous summers, I have: conducted theoretical machine learning research at Google (2019), developed machine learning algorithms at Facebook (2018), researched topics in complexity theory under [Prof. Eric Allender](https://www.cs.rutgers.edu/~allender/) at the Rutgers DIMACS REU (2017), and developed backend technology at Bloomberg (2016).
 
-*Last updated on 12/8/20.*
+*Last updated on 2/2/20.*
