@@ -25,13 +25,13 @@ Marina Knittel, Samuel Dooley, and [John P. Dickerson](http://jpdickerson.com/)<
 <sup>abc</sup> [Fotini Christia](http://fotini.mit.edu/), [Michael Curry](http://www.cs.umd.edu/~curry/), [Constantinos Daskalakis](http://people.csail.mit.edu/costis/), [Erik Demaine](http://erikdemaine.org/), [John P. Dickerson](http://jpdickerson.com/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Adam Hesterberg, Marina Knittel, and [Aidan Millif](https://www.aidanmilliff.com/)<br/>
 *The Association for the Advancement of Artificial Intelligence (AAAI), 2021*<br/>
 <a class="sumToggle"><small>Summary</small></a>, <small>[PDF](https://mknittel.github.io/files/Christia_et_al_AAAI_2021.pdf)</small>
-<div class="summary"></div>
+<small><div class="summary"></div></small>
 <script>
     document .querySelector(".sumToggle") .addEventListener("click", toggleText);
     function toggleText() {
         var x = document.querySelector(".summary");
         if (x.innerHTML === "") {
-            x.innerHTML = "<br/><small>Testinggg</small>";
+            x.innerHTML = "<small>Testinggg</small>";
         } else {
             x.innerHTML = "";
         }
