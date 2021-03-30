@@ -83,17 +83,17 @@ Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  [Ross  Mawhorter](https://users
 David A. Chu, Grace Diehl, Marina Knittel, Judy Lin, Liam Lloyd, [James C. Boerkoel Jr.](https://www.cs.hmc.edu/~boerkoel/), and [Jeremy Frank](https://ti.arc.nasa.gov/profile/frank/)<br/>
 *The Integrated Planning, Acting and Execution Workshop (IntEx) at The 28th International Conference on Automated Planning and Scheduling (ICAPS), 2018. Workshop; subsumed by ICAPS-19 paper*
 <script>
-    document .querySelector(".summaryToggle") .addEventListener("click", toggleText);
-    function toggleText() {
+    //document .querySelector(".summaryToggle") .addEventListener("click", toggleText);
+    $(".summaryToggle").click(function toggleText() {
         alert("hi");
-        var y = $(this).closest('span.links').next('small.summary');
-        alert(y.innerHTML)
+        //var y = $(this).closest('span.links').next('small.summary');
+        //alert(y.innerHTML)
         var x = document.querySelector(".summary");
         if (x.innerHTML === "") {
             x.innerHTML = "<br/>end";
         } else {
             x.innerHTML = "";
         }
-    }
+    })
 </script>
 
