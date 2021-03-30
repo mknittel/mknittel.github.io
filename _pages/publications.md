@@ -25,14 +25,15 @@ Marina Knittel, Samuel Dooley, and [John P. Dickerson](http://jpdickerson.com/)<
 <sup>abc</sup> [Fotini Christia](http://fotini.mit.edu/), [Michael Curry](http://www.cs.umd.edu/~curry/), [Constantinos Daskalakis](http://people.csail.mit.edu/costis/), [Erik Demaine](http://erikdemaine.org/), [John P. Dickerson](http://jpdickerson.com/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Adam Hesterberg, Marina Knittel, and [Aidan Millif](https://www.aidanmilliff.com/)<br/>
 *The Association for the Advancement of Artificial Intelligence (AAAI), 2021*
 
-**[Fair Hierarchical Clustering](https://mknittel.github.io/publications/Ahmadian-et-al-NeurIPS-2020)**<br/>
+**Fair Hierarchical Clustering**<br/>
 <sup>abc</sup> [Sara Ahmadian](https://research.google/people/106920/), [Alessandro Epasto](https://epasto.org/), Marina Knittel, [Ravi Kumar](https://sites.google.com/site/ravik53/), [Mohammad Mahdian](https://research.google/people/MohammadMahdian/), [Benjamin Moseley](http://www.andrew.cmu.edu/user/moseleyb/), [Philip Pham](https://research.google/people/PhilipPham/), [Sergei Vassilvitskii](http://theory.stanford.edu/~sergei/), and [Yuyan Wang](wang-yuyan.github.io)<br/>
 *The Conference on Neural Information Processing Systems (NeurIPS), 2020*<br/>
-<small>Summary, [arXiv](https://arxiv.org/abs/2006.10221), [NeurIPS virtual cite](https://neurips.cc/virtual/2020/protected/poster_f10f2da9a238b746d2bac55759915f0d.html)</small>
+<small>Summary, [pdf](https://mknittel.github.io/files/Ahmadian_et_al_NeurIPS_2020.pdf), [arXiv](https://arxiv.org/abs/2006.10221), [NeurIPS](https://neurips.cc/virtual/2020/protected/poster_f10f2da9a238b746d2bac55759915f0d.html)</small>
 
 **[Matching Affinity Clustering: Improved Hierarchical Clustering at Scale with Guarantees](http://www.ifaamas.org/Proceedings/aamas2020/pdfs/p1864.pdf)**<br/>
 <sup>abc</sup>[MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/) and Marina Knittel<br/>
 *The International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2020 (Extended Abstract)*
+<small>
 
 **[Streaming and Massively Parallel Algorithms for Edge Coloring](https://mknittel.github.io/publications/Behnezhad-et-al-ESA-2019)**<br/>
 <sup>abc</sup>[Soheil Behnezhad](http://behnezhad.com/), [Mahsa Derakhshan](http://cs.umd.edu/~mahsa/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and Hamed Saleh<br/>
