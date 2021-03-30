@@ -24,7 +24,7 @@ Marina Knittel, Samuel Dooley, and [John P. Dickerson](http://jpdickerson.com/)<
 **Scalable Equilibrium Computation in Multi-agent Influence Games on Networks**<br/>
 <sup>abc</sup> [Fotini Christia](http://fotini.mit.edu/), [Michael Curry](http://www.cs.umd.edu/~curry/), [Constantinos Daskalakis](http://people.csail.mit.edu/costis/), [Erik Demaine](http://erikdemaine.org/), [John P. Dickerson](http://jpdickerson.com/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Adam Hesterberg, Marina Knittel, and [Aidan Millif](https://www.aidanmilliff.com/)<br/>
 *The Association for the Advancement of Artificial Intelligence (AAAI), 2021*
-<sub>Summary, arXiv, AAAI website</sub>
+<sub><sup>Summary, arXiv, AAAI website</sup></sub>
 
 **[Fair Hierarchical Clustering](https://mknittel.github.io/publications/Ahmadian-et-al-NeurIPS-2020)**<br/>
 <sup>abc</sup> [Sara Ahmadian](https://research.google/people/106920/), [Alessandro Epasto](https://epasto.org/), Marina Knittel, [Ravi Kumar](https://sites.google.com/site/ravik53/), [Mohammad Mahdian](https://research.google/people/MohammadMahdian/), [Benjamin Moseley](http://www.andrew.cmu.edu/user/moseleyb/), [Philip Pham](https://research.google/people/PhilipPham/), [Sergei Vassilvitskii](http://theory.stanford.edu/~sergei/), and [Yuyan Wang](wang-yuyan.github.io)<br/>
