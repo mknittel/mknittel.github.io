@@ -4,18 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<script>
-    document .querySelector(".sumToggle") .addEventListener("click", toggleText);
-    function toggleText() {
-        var x = document.querySelector(".summary");
-        if (x.innerHTML === "") {
-            x.innerHTML = "<br/>end2";
-        } else {
-            x.innerHTML = "";
-        }
-    }
-</script>
-
 *<sup>abc</sup>Denotes authors are listed in **alphabetical order**. This is convention in theoretical computer science.
 Computer science traditionally uses competitive conferences (15-30% accepted) as the main publication venue.*
 
@@ -93,3 +81,16 @@ Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  [Ross  Mawhorter](https://users
 **Trade-offs Between Communication, Rescheduling, and Success Rate in Uncertain Multi-Agent Schedules**<br/>
 David A. Chu, Grace Diehl, Marina Knittel, Judy Lin, Liam Lloyd, [James C. Boerkoel Jr.](https://www.cs.hmc.edu/~boerkoel/), and [Jeremy Frank](https://ti.arc.nasa.gov/profile/frank/)<br/>
 *The Integrated Planning, Acting and Execution Workshop (IntEx) at The 28th International Conference on Automated Planning and Scheduling (ICAPS), 2018. Workshop; subsumed by ICAPS-19 paper*
+
+<script>
+    document .querySelector(".sumToggle") .addEventListener("click", toggleText);
+    function toggleText() {
+        var x = document.querySelector(".summary");
+        if (x.innerHTML === "") {
+            x.innerHTML = "<br/>end2";
+        } else {
+            x.innerHTML = "";
+        }
+    }
+</script>
+
