@@ -8,10 +8,6 @@ author_profile: true
 Computer science traditionally uses competitive conferences (15-30% accepted) as the main publication venue.*
 
 ## Conference
-**Massively Parallel Tree Embeddings for High Dimensional Space**<br/>
-<sup>abc</sup> AmirMohsen Ahanchi, [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and [Peilin Zhong](http://www.cs.columbia.edu/~peilin/)<br/>
-<span style="color:#A0A0A0">*In preparation*</span> 
-
 **Massively Parallel Constant-round Tree Contraction**<br/>
 <sup>abc</sup> [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, Hamed Saleh, and [Hsin-Hao Su](https://sites.google.com/site/distributedhsinhao/)<br/>
 <span style="color:#A0A0A0">*Under submission*</span>
@@ -20,9 +16,15 @@ Computer science traditionally uses competitive conferences (15-30% accepted) as
 Marina Knittel, Samuel Dooley, and [John P. Dickerson](http://jpdickerson.com/)<br/>
 <span style="color:#A0A0A0">*Under submission*</span> 
 
+**Massively Parallel Tree Embeddings for High Dimensional Space**<br/>
+<sup>abc</sup> AmirMohsen Ahanchi, [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and [Peilin Zhong](http://www.cs.columbia.edu/~peilin/)<br/>
+<span style="color:#A0A0A0">*In preparation*</span> 
+
+
 **Scalable Equilibrium Computation in Multi-agent Influence Games on Networks**<br/>
 <sup>abc</sup> [Fotini Christia](http://fotini.mit.edu/), [Michael Curry](http://www.cs.umd.edu/~curry/), [Constantinos Daskalakis](http://people.csail.mit.edu/costis/), [Erik Demaine](http://erikdemaine.org/), [John P. Dickerson](http://jpdickerson.com/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Adam Hesterberg, Marina Knittel, and [Aidan Millif](https://www.aidanmilliff.com/)<br/>
 *The Association for the Advancement of Artificial Intelligence (AAAI), 2021*
+<sub>Summary, arXiv, AAAI website</sub>
 
 **[Fair Hierarchical Clustering](https://mknittel.github.io/publications/Ahmadian-et-al-NeurIPS-2020)**<br/>
 <sup>abc</sup> [Sara Ahmadian](https://research.google/people/106920/), [Alessandro Epasto](https://epasto.org/), Marina Knittel, [Ravi Kumar](https://sites.google.com/site/ravik53/), [Mohammad Mahdian](https://research.google/people/MohammadMahdian/), [Benjamin Moseley](http://www.andrew.cmu.edu/user/moseleyb/), [Philip Pham](https://research.google/people/PhilipPham/), [Sergei Vassilvitskii](http://theory.stanford.edu/~sergei/), and [Yuyan Wang](wang-yuyan.github.io)<br/>
