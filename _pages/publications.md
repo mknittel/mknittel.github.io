@@ -57,11 +57,11 @@ Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  [Ross  Mawhorter](https://users
 
 **Fair Hierarchical Clustering**<br/>
 *NeurIPS-20, Short talk*<br/>
-<small>[Video](https://neurips.cc/virtual/2020/protected/poster_f10f2da9a238b746d2bac55759915f0d.html)</small>
+<small>[Talk](https://neurips.cc/virtual/2020/protected/poster_f10f2da9a238b746d2bac55759915f0d.html)</small>
 
 **Matching Affinity Clustering: Improved Hierarchical Clustering at Scale with Guarantees** <br/>
 *AAMAS-20*
-<small>[Video](https://neurips.cc/virtual/2020/protected/poster_f10f2da9a238b746d2bac55759915f0d.html)</small>
+<small>[Talk](https://neurips.cc/virtual/2020/protected/poster_f10f2da9a238b746d2bac55759915f0d.html)</small>
 
 **Fair Hierarchical Clustering**<br/>
 *The Sets & Partitions Workshop at NeurIPS-20*
