@@ -85,6 +85,7 @@ David A. Chu, Grace Diehl, Marina Knittel, Judy Lin, Liam Lloyd, [James C. Boerk
 <script>
     document .querySelector(".summaryToggle") .addEventListener("click", toggleText);
     function toggleText() {
+        alert("hi");
         var x = document.querySelector(".summary");
         if (x.innerHTML === "") {
             x.innerHTML = "<br/>end";
