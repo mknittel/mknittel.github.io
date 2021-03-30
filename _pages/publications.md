@@ -27,7 +27,7 @@ Marina Knittel, Samuel Dooley, and [John P. Dickerson](http://jpdickerson.com/)<
 <button class="sumToggle">Summary</button>, <small>[PDF](https://mknittel.github.io/files/Christia_et_al_AAAI_2021.pdf)</small>
 <div class="summary"><small>Test</small></div>
 <script>
-    document .querySelector("sumToggle") .addEventListener("click", toggleText);
+    document .querySelector(".sumToggle") .addEventListener("click", toggleText);
     function toggleText() {
         var x = document.querySelector(".summary");
         if (x.innerHTML === "Test") {
