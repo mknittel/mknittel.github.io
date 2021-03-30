@@ -86,7 +86,7 @@ David A. Chu, Grace Diehl, Marina Knittel, Judy Lin, Liam Lloyd, [James C. Boerk
     function toggleText(obj,pub) {
         var x = document.querySelector(".summary.".concat(pub)();
         if (x.innerHTML === "") {
-            x.innerHTML = "<br/>end2";
+            x.innerHTML = "<br/>end";
         } else {
             x.innerHTML = "";
         }
