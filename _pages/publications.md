@@ -24,6 +24,7 @@ Marina Knittel, Samuel Dooley, and [John P. Dickerson](http://jpdickerson.com/)<
 **Scalable Equilibrium Computation in Multi-agent Influence Games on Networks**<br/>
 <sup>abc</sup> [Fotini Christia](http://fotini.mit.edu/), [Michael Curry](http://www.cs.umd.edu/~curry/), [Constantinos Daskalakis](http://people.csail.mit.edu/costis/), [Erik Demaine](http://erikdemaine.org/), [John P. Dickerson](http://jpdickerson.com/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Adam Hesterberg, Marina Knittel, and [Aidan Millif](https://www.aidanmilliff.com/)<br/>
 *The Association for the Advancement of Artificial Intelligence (AAAI), 2021*
+<small>Summary, [PDF](https://mknittel.github.io/files/Christia_et_al_AAAI_2021.pdf)</small>
 
 **Fair Hierarchical Clustering**<br/>
 <sup>abc</sup> [Sara Ahmadian](https://research.google/people/106920/), [Alessandro Epasto](https://epasto.org/), Marina Knittel, [Ravi Kumar](https://sites.google.com/site/ravik53/), [Mohammad Mahdian](https://research.google/people/MohammadMahdian/), [Benjamin Moseley](http://www.andrew.cmu.edu/user/moseleyb/), [Philip Pham](https://research.google/people/PhilipPham/), [Sergei Vassilvitskii](http://theory.stanford.edu/~sergei/), and [Yuyan Wang](wang-yuyan.github.io)<br/>
@@ -38,17 +39,17 @@ Marina Knittel, Samuel Dooley, and [John P. Dickerson](http://jpdickerson.com/)<
 **[Streaming and Massively Parallel Algorithms for Edge Coloring](https://mknittel.github.io/publications/Behnezhad-et-al-ESA-2019)**<br/>
 <sup>abc</sup>[Soheil Behnezhad](http://behnezhad.com/), [Mahsa Derakhshan](http://cs.umd.edu/~mahsa/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and Hamed Saleh<br/>
 *The 27th Annual European Symposium on Algorithms (ESA), 2019*<br/>
-<small>Summary,[PDF](https://mknittel.github.io/files/behnezhad_et_al_ESA_2019.pdf)</small>
+<small>Summary, [PDF](https://mknittel.github.io/files/behnezhad_et_al_ESA_2019.pdf)</small>
 
 **DREAM: An Algorithm for Mitigating the Overhead of Robust Rescheduling**<br/>
 Jordan R. Abrahams, David A. Chu, Grace Diehl, Marina Knittel, Judy Lin, William Lloyd, [James C. Boerkoel Jr.](https://www.cs.hmc.edu/~boerkoel/), and [Jeremy Frank](https://ti.arc.nasa.gov/profile/frank/)<br/>
 *The 29th International Conference on Automated Planning and Scheduling (ICAPS), 2019*<br/>
-<small>Summary,[PDF](https://mknittel.github.io/files/Abrahams_et_al_ICAPS_2019.pdf.pdf)</small>
+<small>Summary, [PDF](https://mknittel.github.io/files/Abrahams_et_al_ICAPS_2019.pdf.pdf)</small>
 
 **Multiple Optimal Reconciliations with Gene Duplication,  Loss,  and  Coalescence**<br/>
 Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  [Ross  Mawhorter](https://users.soe.ucsc.edu/~rmawhort/),  Ivy  Liu,  Gianluca  Gross,  Reiko Tojo, [Ran Libeskind-Hadas](https://www.cs.hmc.edu/~hadas/), and [Yi-Chieh Wu](https://www.cs.hmc.edu/~yjw/)<br/>
 *17th Asia Pacific Bioinformatics Conference (APBC), 2019*<br/>
-<small>Summary,[PDF](https://mknittel.github.io/files/Abrahams_et_al_ICAPS_2019.pdf.pdf)</small>
+<small>Summary, [PDF](https://mknittel.github.io/files/Abrahams_et_al_ICAPS_2019.pdf.pdf)</small>
 
 ## Presentations:
 **Scalable Equilibrium Computation in Multi-agent Influence Games on Networks**<br/>
@@ -75,6 +76,6 @@ Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  [Ross  Mawhorter](https://users
 <sup>abc</sup>[Soheil Behnezhad](http://behnezhad.com/), [Mahsa Derakhshan](http://cs.umd.edu/~mahsa/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and Hamed Saleh<br/>
 *The 33rd International Symposium on Distributed Computing (DISC), 2019. Brief announcement; subsumed by ESA-19 paper*
 
-**[Trade-offs Between Communication, Rescheduling, and Success Rate in Uncertain Multi-Agent Schedules](https://mknittel.github.io/publications/Chu-et-al-INTEX-2018)**<br/>
+**Trade-offs Between Communication, Rescheduling, and Success Rate in Uncertain Multi-Agent Schedules**<br/>
 David A. Chu, Grace Diehl, Marina Knittel, Judy Lin, Liam Lloyd, [James C. Boerkoel Jr.](https://www.cs.hmc.edu/~boerkoel/), and [Jeremy Frank](https://ti.arc.nasa.gov/profile/frank/)<br/>
 *The Integrated Planning, Acting and Execution Workshop (IntEx) at The 28th International Conference on Automated Planning and Scheduling (ICAPS), 2018. Workshop; subsumed by ICAPS-19 paper*
