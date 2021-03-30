@@ -6,8 +6,8 @@ author_profile: true
 ---
 <script>
     document .querySelector(".sumToggle") .addEventListener("click", toggleText);
-    function toggleText() {
-        var x = document.querySelector(".summary");
+    function toggleText(obj,pub) {
+        var x = document.querySelectorAll(".summary.".concat(pub));
         if (x.innerHTML === "") {
             x.innerHTML = "<br/>end2";
         } else {
@@ -36,7 +36,7 @@ Marina Knittel, Samuel Dooley, and [John P. Dickerson](http://jpdickerson.com/)<
 **Scalable Equilibrium Computation in Multi-agent Influence Games on Networks**<br/>
 <sup>abc</sup> [Fotini Christia](http://fotini.mit.edu/), [Michael Curry](http://www.cs.umd.edu/~curry/), [Constantinos Daskalakis](http://people.csail.mit.edu/costis/), [Erik Demaine](http://erikdemaine.org/), [John P. Dickerson](http://jpdickerson.com/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Adam Hesterberg, Marina Knittel, and [Aidan Millif](https://www.aidanmilliff.com/)<br/>
 *The Association for the Advancement of Artificial Intelligence (AAAI), 2021*<br/>
-<a class="sumToggle"><small>Summary</small></a>, <small>[PDF](https://mknittel.github.io/files/Christia_et_al_AAAI_2021.pdf)</small> <small class="summary"></small>
+<a class="sumToggle" onclick="toggleText(this, 'AAAI21')"><small>Summary</small></a>, <small>[PDF](https://mknittel.github.io/files/Christia_et_al_AAAI_2021.pdf)</small> <small class="summary AAAI21"></small>
 
 **Fair Hierarchical Clustering**<br/>
 <sup>abc</sup> [Sara Ahmadian](https://research.google/people/106920/), [Alessandro Epasto](https://epasto.org/), Marina Knittel, [Ravi Kumar](https://sites.google.com/site/ravik53/), [Mohammad Mahdian](https://research.google/people/MohammadMahdian/), [Benjamin Moseley](http://www.andrew.cmu.edu/user/moseleyb/), [Philip Pham](https://research.google/people/PhilipPham/), [Sergei Vassilvitskii](http://theory.stanford.edu/~sergei/), and [Yuyan Wang](wang-yuyan.github.io)<br/>
