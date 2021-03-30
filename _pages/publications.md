@@ -36,7 +36,7 @@ Marina Knittel, Samuel Dooley, and [John P. Dickerson](http://jpdickerson.com/)<
 *The International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2020 (Extended Abstract)*<br/>
 <small>Summary, [PDF](https://mknittel.github.io/files/Hajiaghayi_and_Knittel_AAMAS_2020.pdf), [arXiv](https://arxiv.org/abs/2101.04818), [AAMAS](http://www.ifaamas.org/Proceedings/aamas2020/pdfs/p1864.pdf)</small>
 
-**[Streaming and Massively Parallel Algorithms for Edge Coloring](https://mknittel.github.io/publications/Behnezhad-et-al-ESA-2019)**<br/>
+**Streaming and Massively Parallel Algorithms for Edge Coloring**<br/>
 <sup>abc</sup>[Soheil Behnezhad](http://behnezhad.com/), [Mahsa Derakhshan](http://cs.umd.edu/~mahsa/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and Hamed Saleh<br/>
 *The 27th Annual European Symposium on Algorithms (ESA), 2019*<br/>
 <small>Summary, [PDF](https://mknittel.github.io/files/behnezhad_et_al_ESA_2019.pdf)</small>
