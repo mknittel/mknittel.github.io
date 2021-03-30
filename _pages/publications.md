@@ -83,7 +83,7 @@ David A. Chu, Grace Diehl, Marina Knittel, Judy Lin, Liam Lloyd, [James C. Boerk
 *The Integrated Planning, Acting and Execution Workshop (IntEx) at The 28th International Conference on Automated Planning and Scheduling (ICAPS), 2018. Workshop; subsumed by ICAPS-19 paper*
 <script type=text/javascript>
     function toggleText() {
-        alert("hi!")
+        alert("hi!");
         var x = document.querySelector(".summary"));
         if (x.innerHTML === "") {
             x.innerHTML = "<br/>end";
