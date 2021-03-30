@@ -30,7 +30,7 @@ Marina Knittel, Samuel Dooley, and [John P. Dickerson](http://jpdickerson.com/)<
     function toggleText() {
         var x = document.querySelector(".summary");
         if (x.innerHTML === "") {
-            x.innerHTML = "<br/>Test";
+            x.innerHTML = "<br/>Testt";
         } else {
             x.innerHTML = "";
         }
