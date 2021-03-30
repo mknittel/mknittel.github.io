@@ -23,7 +23,7 @@ Marina Knittel, Samuel Dooley, and [John P. Dickerson](http://jpdickerson.com/)<
 
 **Scalable Equilibrium Computation in Multi-agent Influence Games on Networks**<br/>
 <sup>abc</sup> [Fotini Christia](http://fotini.mit.edu/), [Michael Curry](http://www.cs.umd.edu/~curry/), [Constantinos Daskalakis](http://people.csail.mit.edu/costis/), [Erik Demaine](http://erikdemaine.org/), [John P. Dickerson](http://jpdickerson.com/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Adam Hesterberg, Marina Knittel, and [Aidan Millif](https://www.aidanmilliff.com/)<br/>
-*The Association for the Advancement of Artificial Intelligence (AAAI), 2021*
+*The Association for the Advancement of Artificial Intelligence (AAAI), 2021*<br/>
 <small><div class="sumToggle">Summary</div>, [PDF](https://mknittel.github.io/files/Christia_et_al_AAAI_2021.pdf)</small>
 <div class="summary">Test</div>
 <script>
@@ -72,7 +72,7 @@ Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  [Ross  Mawhorter](https://users
 <small>[Talk](https://neurips.cc/virtual/2020/protected/poster_f10f2da9a238b746d2bac55759915f0d.html)</small>
 
 **Matching Affinity Clustering: Improved Hierarchical Clustering at Scale with Guarantees** <br/>
-*AAMAS-20*
+*AAMAS-20*<br/>
 <small>[Talk](https://neurips.cc/virtual/2020/protected/poster_f10f2da9a238b746d2bac55759915f0d.html)</small>
 
 **Fair Hierarchical Clustering**<br/>
