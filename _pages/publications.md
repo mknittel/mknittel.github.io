@@ -6,14 +6,6 @@ author_profile: true
 ---
 
 <head>
-<meta charset="utf-8">
-<title>jQuery Toggle Text inside Elements</title>
-<style>
-    button {
-        padding: 5px 10px;
-        font-size: 14px;
-    }
-</style>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script>
     $(document).ready(function(){
@@ -102,5 +94,5 @@ Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  [Ross  Mawhorter](https://users
 David A. Chu, Grace Diehl, Marina Knittel, Judy Lin, Liam Lloyd, [James C. Boerkoel Jr.](https://www.cs.hmc.edu/~boerkoel/), and [Jeremy Frank](https://ti.arc.nasa.gov/profile/frank/)<br/>
 *The Integrated Planning, Acting and Execution Workshop (IntEx) at The 28th International Conference on Automated Planning and Scheduling (ICAPS), 2018. Workshop; subsumed by ICAPS-19 paper*
 
-<br/>Debug:1<br/>
+<br/>Debug:0<br/>
 <button type="button">Order by Alphabet</button>
