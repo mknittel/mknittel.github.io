@@ -13,8 +13,6 @@ author_profile: true
     $(document).ready(function(){
         $("button").click(function(){
             $(this).text($(this).text() == 'Order by Alphabet' ? 'Order by '.concat(test) : 'Order by Alphabet');
-            //var nextp = $(this).text($(this).next('p'));
-            //$(this).text($(this).next('p').text() == 'Order by Alphabet' ? 'Order by '.concat(test) : 'Order by Alphabet');
         });
     });
 </script>
