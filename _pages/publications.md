@@ -4,6 +4,26 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<head>
+<meta charset="utf-8">
+<title>jQuery Toggle Text inside Elements</title>
+<style>
+    button {
+        padding: 5px 10px;
+        font-size: 14px;
+    }
+</style>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $("button").click(function(){
+            $(this).text($(this).text() == 'Order by Alphabet' ? 'Order by Category' : 'Order by Alphabet');
+        });
+    });
+</script>
+</head>
+
 *<sup>abc</sup>Denotes authors are listed in **alphabetical order**. This is convention in theoretical computer science.
 Computer science traditionally uses competitive conferences (15-30% accepted) as the main publication venue.*
 
@@ -84,24 +104,3 @@ David A. Chu, Grace Diehl, Marina Knittel, Judy Lin, Liam Lloyd, [James C. Boerk
 
 <br/>Debug:0<br/>
 <button type="button">Order by Alphabet</button>
-
-<script>
-    //document .querySelector(".summaryToggle") .addEventListener("click", toggleText);
-    /*$(".summaryToggle").click(function toggleText() {
-        alert("hi");
-        //var y = $(this).closest('span.links').next('small.summary');
-        //alert(y.innerHTML)
-        var x = document.querySelector(".summary");
-        if (x.innerHTML === "") {
-            x.innerHTML = "<br/>end";
-        } else {
-            x.innerHTML = "";
-        }
-    });*/
-    $(document).ready(function(){
-        $("button").click(function(){
-            $(this).text($(this).text() == 'Order by Alphabet' ? 'Order by Category' : 'Order by Alphabet');
-        });
-    });
-</script>
-
