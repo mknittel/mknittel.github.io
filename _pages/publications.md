@@ -9,10 +9,11 @@ author_profile: true
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script>
     var test = 'Category';
+    //var y = $(this).closest('span.links').next('small.summary');
 
     $(document).ready(function(){
         $("button").click(function(){
-            $(this).text($(this).text() == 'Order by Alphabet' ? 'Order by '.concat(test) : 'Order by Alphabet');
+            $(this).text($(this).next('p').text() == 'Order by Alphabet' ? 'Order by '.concat(test) : 'Order by Alphabet');
         });
     });
 </script>
@@ -98,4 +99,4 @@ David A. Chu, Grace Diehl, Marina Knittel, Judy Lin, Liam Lloyd, [James C. Boerk
 
 <br/>Debug:1<br/>
 <button type="button">Order by Alphabet</button>
-<p>Test text</p>
+<p>Order by Alphabet</p>
