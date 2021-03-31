@@ -8,11 +8,11 @@ author_profile: true
 <head>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script>
-    var test = 'Order by Category';
+    var test = 'Category';
 
     $(document).ready(function(){
         $("button").click(function(){
-            $(this).text($(this).text() == 'Order by Alphabet' ? test : 'Order by Alphabet');
+            $(this).text($(this).text() == 'Order by Alphabet' ? 'Order by '.concat(test) : 'Order by Alphabet');
         });
     });
 </script>
@@ -96,5 +96,5 @@ Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  [Ross  Mawhorter](https://users
 David A. Chu, Grace Diehl, Marina Knittel, Judy Lin, Liam Lloyd, [James C. Boerkoel Jr.](https://www.cs.hmc.edu/~boerkoel/), and [Jeremy Frank](https://ti.arc.nasa.gov/profile/frank/)<br/>
 *The Integrated Planning, Acting and Execution Workshop (IntEx) at The 28th International Conference on Automated Planning and Scheduling (ICAPS), 2018. Workshop; subsumed by ICAPS-19 paper*
 
-<br/>Debug:1<br/>
+<br/>Debug:0<br/>
 <button type="button">Order by Alphabet</button>
