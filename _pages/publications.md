@@ -59,12 +59,12 @@ Marina Knittel, Samuel Dooley, and [John P. Dickerson](http://jpdickerson.com/)<
 **DREAM: An Algorithm for Mitigating the Overhead of Robust Rescheduling**<br/>
 Jordan R. Abrahams, David A. Chu, Grace Diehl, Marina Knittel, Judy Lin, William Lloyd, [James C. Boerkoel Jr.](https://www.cs.hmc.edu/~boerkoel/), and [Jeremy Frank](https://ti.arc.nasa.gov/profile/frank/)<br/>
 *The 29th International Conference on Automated Planning and Scheduling (ICAPS), 2019*<br/>
-<small>[PDF](https://mknittel.github.io/files/Abrahams_et_al_ICAPS_2019.pdf.pdf)</small>
+<small>[PDF](https://mknittel.github.io/files/Abrahams_et_al_ICAPS_2019.pdf)</small>
 
 **Multiple Optimal Reconciliations with Gene Duplication,  Loss,  and  Coalescence**<br/>
 Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  [Ross  Mawhorter](https://users.soe.ucsc.edu/~rmawhort/),  Ivy  Liu,  Gianluca  Gross,  Reiko Tojo, [Ran Libeskind-Hadas](https://www.cs.hmc.edu/~hadas/), and [Yi-Chieh Wu](https://www.cs.hmc.edu/~yjw/)<br/>
 *17th Asia Pacific Bioinformatics Conference (APBC), 2019*<br/>
-<small>[PDF](https://mknittel.github.io/files/Abrahams_et_al_ICAPS_2019.pdf.pdf)</small>
+<small>[PDF](https://mknittel.github.io/files/Abrahams_et_al_ICAPS_2019.pdf)</small>
 
 ## Presentations:
 **Scalable Equilibrium Computation in Multi-agent Influence Games on Networks**<br/>
@@ -76,7 +76,6 @@ Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  [Ross  Mawhorter](https://users
 
 **Matching Affinity Clustering: Improved Hierarchical Clustering at Scale with Guarantees** <br/>
 *AAMAS-20*<br/>
-<small>[Talk](https://neurips.cc/virtual/2020/protected/poster_f10f2da9a238b746d2bac55759915f0d.html)</small>
 
 **Fair Hierarchical Clustering**<br/>
 *The Sets & Partitions Workshop at NeurIPS-20*
@@ -97,6 +96,6 @@ Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  [Ross  Mawhorter](https://users
 David A. Chu, Grace Diehl, Marina Knittel, Judy Lin, Liam Lloyd, [James C. Boerkoel Jr.](https://www.cs.hmc.edu/~boerkoel/), and [Jeremy Frank](https://ti.arc.nasa.gov/profile/frank/)<br/>
 *The Integrated Planning, Acting and Execution Workshop (IntEx) at The 28th International Conference on Automated Planning and Scheduling (ICAPS), 2018. Workshop; subsumed by ICAPS-19 paper*
 
-<br/>Debug:1<br/>
+<!--<br/>Debug:1<br/>
 <button type="button">Order by Alphabet</button>
-<p>Order by Alphabet</p>
+<p>Order by Alphabet</p>-->
