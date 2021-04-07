@@ -42,7 +42,7 @@ Marina Knittel, Samuel Dooley, and [John P. Dickerson](http://jpdickerson.com/)<
 <small>[PDF](https://mknittel.github.io/files/Christia_et_al_AAAI_2021.pdf)</small> <small class="summary"></small>
 
 **Fair Hierarchical Clustering**<br/>
-<sup>abc</sup> [Sara Ahmadian](https://research.google/people/106920/), [Alessandro Epasto](https://epasto.org/), Marina Knittel, [Ravi Kumar](https://sites.google.com/site/ravik53/), [Mohammad Mahdian](https://research.google/people/MohammadMahdian/), [Benjamin Moseley](http://www.andrew.cmu.edu/user/moseleyb/), [Philip Pham](https://research.google/people/PhilipPham/), [Sergei Vassilvitskii](http://theory.stanford.edu/~sergei/), and [Yuyan Wang](wang-yuyan.github.io)<br/>
+<sup>abc</sup> [Sara Ahmadian](https://research.google/people/106920/), [Alessandro Epasto](https://epasto.org/), Marina Knittel, [Ravi Kumar](https://sites.google.com/site/ravik53/), [Mohammad Mahdian](https://research.google/people/MohammadMahdian/), [Benjamin Moseley](http://www.andrew.cmu.edu/user/moseleyb/), [Philip Pham](https://research.google/people/PhilipPham/), [Sergei Vassilvitskii](http://theory.stanford.edu/~sergei/), and [Yuyan Wang](https://wang-yuyan.github.io)<br/>
 *The Conference on Neural Information Processing Systems (NeurIPS), 2020*<br/>
 <small>[PDF](https://mknittel.github.io/files/Ahmadian_et_al_NeurIPS_2020.pdf), [arXiv](https://arxiv.org/abs/2006.10221), [NeurIPS](https://neurips.cc/virtual/2020/protected/poster_f10f2da9a238b746d2bac55759915f0d.html)</small>
 
