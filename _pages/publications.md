@@ -24,7 +24,7 @@ Computer science traditionally uses competitive conferences (15-30% accepted) as
 
 ## Conference
 **Massively Parallel Constant-round Tree Contraction**<br/>
-<sup>abc</sup> [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, Hamed Saleh, and [Hsin-Hao Su](https://sites.google.com/site/distributedhsinhao/)<br/>
+<sup>abc</sup> [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, [Hamed Saleh](https://www.cs.umd.edu/~hamed/), and [Hsin-Hao Su](https://sites.google.com/site/distributedhsinhao/)<br/>
 <span style="color:#A0A0A0">*Under submission*</span>
 
 **The Binary Affiliate Matching Problem: Approval-Based Matching with Applicant-Employer Relations**<br/>
@@ -52,7 +52,7 @@ Marina Knittel, Samuel Dooley, and [John P. Dickerson](http://jpdickerson.com/)<
 <small>[PDF](https://mknittel.github.io/files/Hajiaghayi_and_Knittel_AAMAS_2020.pdf), [arXiv](https://arxiv.org/abs/2101.04818), [AAMAS](http://www.ifaamas.org/Proceedings/aamas2020/pdfs/p1864.pdf)</small>
 
 **Streaming and Massively Parallel Algorithms for Edge Coloring**<br/>
-<sup>abc</sup>[Soheil Behnezhad](http://behnezhad.com/), [Mahsa Derakhshan](http://cs.umd.edu/~mahsa/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and Hamed Saleh<br/>
+<sup>abc</sup>[Soheil Behnezhad](http://behnezhad.com/), [Mahsa Derakhshan](http://cs.umd.edu/~mahsa/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and [Hamed Saleh](https://www.cs.umd.edu/~hamed/)<br/>
 *The 27th Annual European Symposium on Algorithms (ESA), 2019*<br/>
 <small>[PDF](https://mknittel.github.io/files/behnezhad_et_al_ESA_2019.pdf)</small>
 
@@ -89,7 +89,7 @@ Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  [Ross  Mawhorter](https://users
 *The Sets & Partitions Workshop at the 33rd Conference on Neural Information Processing (NeurIPS), 2019. Workshop; subsumed by NeurIPS-20 paper* 
 
 **Streaming and Massively Parallel Algorithms for Edge Coloring**<br/>
-<sup>abc</sup>[Soheil Behnezhad](http://behnezhad.com/), [Mahsa Derakhshan](http://cs.umd.edu/~mahsa/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and Hamed Saleh<br/>
+<sup>abc</sup>[Soheil Behnezhad](http://behnezhad.com/), [Mahsa Derakhshan](http://cs.umd.edu/~mahsa/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and [Hamed Saleh](https://www.cs.umd.edu/~hamed/)<br/>
 *The 33rd International Symposium on Distributed Computing (DISC), 2019. Brief announcement; subsumed by ESA-19 paper*
 
 **Trade-offs Between Communication, Rescheduling, and Success Rate in Uncertain Multi-Agent Schedules**<br/>
