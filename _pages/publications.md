@@ -62,7 +62,7 @@ Jordan R. Abrahams, David A. Chu, Grace Diehl, Marina Knittel, Judy Lin, William
 <small>[PDF](https://mknittel.github.io/files/Abrahams_et_al_ICAPS_2019.pdf)</small>
 
 **Multiple Optimal Reconciliations with Gene Duplication,  Loss,  and  Coalescence**<br/>
-Hoaxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  [Ross  Mawhorter](https://users.soe.ucsc.edu/~rmawhort/),  Ivy  Liu,  Gianluca  Gross,  Reiko Tojo, [Ran Libeskind-Hadas](https://www.cs.hmc.edu/~hadas/), and [Yi-Chieh Wu](https://www.cs.hmc.edu/~yjw/)<br/>
+Haoxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  [Ross  Mawhorter](https://users.soe.ucsc.edu/~rmawhort/),  Ivy  Liu,  Gianluca  Gross,  Reiko Tojo, [Ran Libeskind-Hadas](https://www.cs.hmc.edu/~hadas/), and [Yi-Chieh Wu](https://www.cs.hmc.edu/~yjw/)<br/>
 *17th Asia Pacific Bioinformatics Conference (APBC), 2019*<br/>
 <small>[PDF](https://mknittel.github.io/files/Du_et_al_APBC_2019.pdf)</small>
 
