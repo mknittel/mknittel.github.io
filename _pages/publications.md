@@ -84,6 +84,10 @@ Haoxing  Du,  Yi  Sheng  Ong,  Marina  Knittel,  [Ross  Mawhorter](https://users
 *IntEX Workshop at ICAPS-18*
 
 ## Short papers, etc.
+**The Binary Affiliate Matching Problem: Approval-Based Matching with Applicant-Employer Relations**<br/>
+Marina Knittel, Samuel Dooley, and [John P. Dickerson](http://jpdickerson.com/)<br/>
+*The INFORMS Workshop on Market Design at the 22nd Conference on Economics and Computation (EC), 2021. Workshop*
+
 **Fair Hierarchical Clustering**<br/>
 <sup>abc</sup> [Sara Ahmadian](https://research.google/people/106920/), [Alessandro Epasto](https://epasto.org/), Marina Knittel, [Ravi Kumar](https://sites.google.com/site/ravik53/), [Mohammad Mahdian](https://research.google/people/MohammadMahdian/), and [Philip Pham](https://research.google/people/PhilipPham/)<br/>
 *The Sets & Partitions Workshop at the 33rd Conference on Neural Information Processing (NeurIPS), 2019. Workshop; subsumed by NeurIPS-20 paper* 
