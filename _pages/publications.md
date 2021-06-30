@@ -35,6 +35,13 @@ Marina Knittel, Samuel Dooley, and [John P. Dickerson](http://jpdickerson.com/)<
 <sup>abc</sup> AmirMohsen Ahanchi, [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and [Peilin Zhong](http://www.cs.columbia.edu/~peilin/)<br/>
 <span style="color:#A0A0A0">*In preparation*</span> 
 
+**O(sqrt(log n))-round MPC algorithm for (1+epsilon) Bipartite Matching**<br/>
+<sup>abc</sup> [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and [Peilin Zhong](http://www.cs.columbia.edu/~peilin/)<br/>
+<span style="color:#A0A0A0">*In preparation*</span> 
+
+**Adaptive Massively Parallel Minimum Cut in Sublogarithmic Rounds**<br/>
+<sup>abc</sup> [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, Jan Olkowski, and [Hamed Saleh](https://www.cs.umd.edu/~hamed/)<br/>
+<span style="color:#A0A0A0">*In preparation*</span> 
 
 **Scalable Equilibrium Computation in Multi-agent Influence Games on Networks**<br/>
 <sup>abc</sup> [Fotini Christia](http://fotini.mit.edu/), [Michael Curry](http://www.cs.umd.edu/~curry/), [Constantinos Daskalakis](http://people.csail.mit.edu/costis/), [Erik Demaine](http://erikdemaine.org/), [John P. Dickerson](http://jpdickerson.com/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Adam Hesterberg, Marina Knittel, and [Aidan Millif](https://www.aidanmilliff.com/)<br/>
