@@ -23,23 +23,23 @@ author_profile: true
 Computer science traditionally uses competitive conferences (15-30% accepted) as the main publication venue.*
 
 ## Conference
-**Massively Parallel Constant-round Tree Contraction**<br/>
-<sup>abc</sup> [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, [Hamed Saleh](https://www.cs.umd.edu/~hamed/), and [Hsin-Hao Su](https://sites.google.com/site/distributedhsinhao/)<br/>
-<span style="color:#A0A0A0">*Under submission*</span>
-
-**Massively Parallel Tree Embeddings for High Dimensional Space**<br/>
+**Massively Parallel Tree Embeddings for High Dimensional Spaces**<br/>
 <sup>abc</sup> AmirMohsen Ahanchi, [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and [Peilin Zhong](http://www.cs.columbia.edu/~peilin/)<br/>
 <span style="color:#A0A0A0">*Under submission*</span> 
 
-**O(sqrt(log n))-round MPC algorithm for (1+epsilon) Bipartite Matching**<br/>
+**O(sqrt(log(n))/epsilon^2)-round MPC algorithm for 1-epsilon Weighted Bipartite Matching**<br/>
 <sup>abc</sup> [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and [Peilin Zhong](http://www.cs.columbia.edu/~peilin/)<br/>
 <span style="color:#A0A0A0">*Under submission*</span> 
 
-**Adaptive Massively Parallel Minimum Cut in Sublogarithmic Rounds**<br/>
+**Improved Adaptive Massively Parallel Algorithms for Cut Problems**<br/>
 <sup>abc</sup> [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, Jan Olkowski, and [Hamed Saleh](https://www.cs.umd.edu/~hamed/)<br/>
 <span style="color:#A0A0A0">*Under submission*</span> 
 
-**The Binary Affiliate Matching Problem: Approval-Based Matching with Applicant-Employer Relations**<br/>
+**Adaptive Massively Parallel Constant-round Tree Contraction**<br/>
+<sup>abc</sup> [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, [Hamed Saleh](https://www.cs.umd.edu/~hamed/), and [Hsin-Hao Su](https://sites.google.com/site/distributedhsinhao/)<br/>
+<span style="color:#A0A0A0">*In preparation*</span>
+
+**The Dichotomous Affiliate Stable Matching Problem: Approval-Based Matching with Applicant-Employer Relations**<br/>
 Marina Knittel, Samuel Dooley, and [John P. Dickerson](http://jpdickerson.com/)<br/>
 <span style="color:#A0A0A0">*In preparation for conference submission, accepted as an EC workshop paper*</span> 
 
