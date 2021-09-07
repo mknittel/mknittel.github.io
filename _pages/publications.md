@@ -41,7 +41,7 @@ Marina Knittel, Samuel Dooley, and [John P. Dickerson](http://jpdickerson.com/)<
 
 **Adaptive Massively Parallel Constant-round Tree Contraction**<br/>
 <sup>abc</sup> [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, [Hamed Saleh](https://www.cs.umd.edu/~hamed/), and [Hsin-Hao Su](https://sites.google.com/site/distributedhsinhao/)<br/>
-<span style="color:#A0A0A0">*In preparation*</span>
+<span style="color:#A0A0A0">*Under submission*</span>
 
 **Scalable Equilibrium Computation in Multi-agent Influence Games on Networks**<br/>
 <sup>abc</sup> [Fotini Christia](http://fotini.mit.edu/), [Michael Curry](http://www.cs.umd.edu/~curry/), [Constantinos Daskalakis](http://people.csail.mit.edu/costis/), [Erik Demaine](http://erikdemaine.org/), [John P. Dickerson](http://jpdickerson.com/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Adam Hesterberg, Marina Knittel, and [Aidan Millif](https://www.aidanmilliff.com/)<br/>
