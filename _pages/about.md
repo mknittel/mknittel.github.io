@@ -14,4 +14,4 @@ Previously, I attended [Harvey Mudd College](https://www.cs.hmc.edu/). In 2018, 
 
 This summer, I am interned at [TTIC](https://www.ttic.edu/) working with [Prof. Avrim Blum](https://ttic.uchicago.edu/~avrim/) and [Prof. Saeed Seddighin](https://sites.google.com/view/saeedrezaseddighin) in algorithmic game theory. In previous summers, I have: researched intelligent embeddings of ads data at Amazon (2020), studied fairness in hierarchical clustering at Google (2019), developed neural networks for ranking problems at Facebook (2018), researched topics in complexity theory under [Prof. Eric Allender](https://www.cs.rutgers.edu/~allender/) at the Rutgers DIMACS REU (2017), and developed backend software at Bloomberg (2016).
 
-*Last updated on 9/23/21.*
+*Last updated on 11/1/21.*
