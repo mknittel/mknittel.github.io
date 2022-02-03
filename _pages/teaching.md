@@ -5,12 +5,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Full Lecturer
+University of Maryland, College Park
+* **CMSC 498T Mechanism Design**: Spring 2022
 
-University of Maryland, College Park (lecturing and grading TA)
+## Teaching Assistant
+University of Maryland, College Park
 * **CMSC 456 Cryptography**: Fall 2019
 * **CMSC 250 Discrete Structures**: Fall 2018, Spring 2019
 
-Harvey Mudd College (grader and tutor)
+Harvey Mudd College
 * **CS 140 Algorithms**: Spring 2017 - Spring 2018
 * **CS 142 Complexity Theory**: Spring 2018
 * **CS 158 Machine Learning**: Fall 2017
