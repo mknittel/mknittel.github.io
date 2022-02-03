@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Full Lecturer
+## Lecturer
 University of Maryland, College Park
 * **CMSC 498T Mechanism Design**: Spring 2022
 
