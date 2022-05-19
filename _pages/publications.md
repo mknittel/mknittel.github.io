@@ -35,7 +35,7 @@ Computer science traditionally uses competitive conferences (15-30% accepted) as
 <sup>abc</sup> [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and [Peilin Zhong](http://www.cs.columbia.edu/~peilin/)<br/>
 <span style="color:#A0A0A0">*Under submission to DISC*</span> 
 
-**Improved Adaptive Massively Parallel Algorithms for Cut Problems**<br/>
+**Adaptive Massively Parallel Algorithms for Cut Problems**<br/>
 <sup>abc</sup> [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, Jan Olkowski, and [Hamed Saleh](https://www.cs.umd.edu/~hamed/)<br/>
 *Symposium on Parallelism and Architectures (SPAA), 2022*<br/>
 <small>[PDF](https://mknittel.github.io/files/Hajiaghayi_et_al_SPAA_2022.pdf)</small>
