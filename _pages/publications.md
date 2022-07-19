@@ -26,10 +26,11 @@ Computer science traditionally uses competitive conferences (15-30% accepted) as
 **Generalized Reductions: Making any Hierarchical Clustering Fair and Balanced with Low Cost**<br/>
 <sup>abc</sup> Marina Knittel, [John P. Dickerson](http://jpdickerson.com/), and [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/)<br/>
 <span style="color:#A0A0A0">*Under submission to NeurIPS*</span> 
+<small>[arXiv](https://arxiv.org/abs/2205.14198)</small>
 
 **Massively Parallel Tree Embeddings for High Dimensional Spaces**<br/>
 <sup>abc</sup> AmirMohsen Ahanchi, [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and [Peilin Zhong](http://www.cs.columbia.edu/~peilin/)<br/>
-<span style="color:#A0A0A0">*Under submission to ESA*</span> 
+<span style="color:#A0A0A0">*Under submission to SODA*</span> 
 
 **Massively Parallel Bipartite Maximum Weighted Matching Via Matching Reduction**<br/>
 <sup>abc</sup> [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and [Peilin Zhong](http://www.cs.columbia.edu/~peilin/)<br/>
@@ -38,12 +39,12 @@ Computer science traditionally uses competitive conferences (15-30% accepted) as
 **Adaptive Massively Parallel Algorithms for Cut Problems**<br/>
 <sup>abc</sup> [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, Jan Olkowski, and [Hamed Saleh](https://www.cs.umd.edu/~hamed/)<br/>
 *Symposium on Parallelism and Architectures (SPAA), 2022*<br/>
-<small>[PDF](https://mknittel.github.io/files/Hajiaghayi_et_al_SPAA_2022.pdf)</small>
+<small>[PDF](https://mknittel.github.io/files/Hajiaghayi_et_al_SPAA_2022.pdf), [arXiv](https://arxiv.org/abs/2205.14101)</small>
 
 **The Dichotomous Affiliate Stable Matching Problem: Approval-Based Matching with Applicant-Employer Relations**<br/>
 Marina Knittel, Samuel Dooley, and [John P. Dickerson](http://jpdickerson.com/)<br/>
 *International Joint Conference on Artificial Intelligence (IJCAI), 2022*<br/>
-<small>[PDF](https://mknittel.github.io/files/Knittel_et_al_IJCAI_2022.pdf)</small>
+<small>[PDF](https://mknittel.github.io/files/Knittel_et_al_IJCAI_2022.pdf), [arXiv](https://arxiv.org/abs/2202.11095)</small>
 
 **Adaptive Massively Parallel Constant-round Tree Contraction**<br/>
 <sup>abc</sup> [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, [Hamed Saleh](https://www.cs.umd.edu/~hamed/), and [Hsin-Hao Su](https://sites.google.com/site/distributedhsinhao/)<br/>
