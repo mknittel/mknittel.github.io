@@ -7,7 +7,7 @@ author_profile: true
 
 ## Lecturer
 University of Maryland, College Park
-* **CMSC 498T Mechanism Design**: Spring 2022
+* **[CMSC 498T Mechanism Design](https://mech-design.github.io/)**: Spring 2022
 
 ## Teaching Assistant
 University of Maryland, College Park
