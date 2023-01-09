@@ -25,12 +25,16 @@ Computer science traditionally uses competitive conferences (15-30% accepted) as
 ## Conference
 **Generalized Reductions: Making any Hierarchical Clustering Fair and Balanced with Low Cost**<br/>
 <sup>abc</sup> Marina Knittel, [John P. Dickerson](http://jpdickerson.com/), and [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/)<br/>
-<span style="color:#A0A0A0">*Under submission to AAAI*</span><br/> 
+<span style="color:#A0A0A0">*Prepared for submission to ICML.*</span><br/> 
 <small>[arXiv](https://arxiv.org/abs/2205.14198)</small>
 
 **Massively Parallel Tree Embeddings for High Dimensional Spaces**<br/>
 <sup>abc</sup> AmirMohsen Ahanchi, [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and [Peilin Zhong](http://www.cs.columbia.edu/~peilin/)<br/>
-<span style="color:#A0A0A0">*Under submission to SODA*</span> 
+<span style="color:#A0A0A0">*Prepared for submission to SPAA.*</span> 
+
+**Faster Parallel Algorithms for Minimum Cut**<br/>
+<sup>abc</sup> Samira Goudarzi, [MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/), Peyman Jabbarzade, Marina Knittel, and Jan Olkowski.<br/> 
+<span style="color:#A0A0A0">*Prepared for submission to SPAA.*</span> 
 
 **Adaptive Massively Parallel Algorithms for Cut Problems**<br/>
 <sup>abc</sup> [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, Jan Olkowski, and [Hamed Saleh](https://www.cs.umd.edu/~hamed/)<br/>
