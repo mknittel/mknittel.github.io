@@ -25,7 +25,7 @@ Computer science traditionally uses competitive conferences (15-30% accepted) as
 ## Conference
 **Fair, Polylog-Approximate Low-Cost Hierarchical Clustering**<br/>
 <sup>abc</sup> Marina Knittel, [Max Springer](https://mss423.github.io/), [John P. Dickerson](http://jpdickerson.com/), and [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/)<br/>
-**In submission to NeurIPS.**<br/>
+*In submission to NeurIPS.*<br/>
 <small>[PDF](https://mknittel.github.io/files/Knittel_et_al_2023.pdf)</small>
 
 **Generalized Reductions: Making any Hierarchical Clustering Fair and Balanced with Low Cost**<br/>
@@ -36,7 +36,7 @@ Computer science traditionally uses competitive conferences (15-30% accepted) as
 **Massively Parallel Tree Embeddings for High Dimensional Spaces**<br/>
 <sup>abc</sup> AmirMohsen Ahanchi, [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and [Peilin Zhong](http://www.cs.columbia.edu/~peilin/)<br/>
 *Symposium on Parallelism and Architectures (SPAA), 2023*<br/>
-<small>[PDF](https://mknittel.github.io/files/Ahanchi_et_al_SPAA_2023.pdf)/</small>
+<small>[PDF](https://mknittel.github.io/files/Ahanchi_et_al_SPAA_2023.pdf)</small>
 
 **Adaptive Massively Parallel Algorithms for Cut Problems**<br/>
 <sup>abc</sup> [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, Jan Olkowski, and [Hamed Saleh](https://www.cs.umd.edu/~hamed/)<br/>
