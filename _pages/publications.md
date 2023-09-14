@@ -23,18 +23,20 @@ author_profile: true
 Computer science traditionally uses competitive conferences (15-30% accepted) as the main publication venue.*
 
 ## Conference
+**Fair, Polylog-Approximate Low-Cost Hierarchical Clustering**<br/>
+<sup>abc</sup> Marina Knittel, [Max Springer](https://mss423.github.io/), [John P. Dickerson](http://jpdickerson.com/), and [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/)<br/>
+**In submission to NeurIPS.**<br/>
+<small>[PDF](https://mknittel.github.io/files/Knittel_et_al_2023.pdf)</small>
+
 **Generalized Reductions: Making any Hierarchical Clustering Fair and Balanced with Low Cost**<br/>
-<sup>abc</sup> Marina Knittel, [John P. Dickerson](http://jpdickerson.com/), and [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/)<br/>
-<span style="color:#A0A0A0">*Prepared for submission to ICML.*</span><br/> 
-<small>[arXiv](https://arxiv.org/abs/2205.14198)</small>
+<sup>abc</sup> Marina Knittel, [Max Springer](https://mss423.github.io/), [John P. Dickerson](http://jpdickerson.com/), and [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/)<br/>
+*International Conference on Machine Learning (ICML), 2023*<br/>
+<small>[PDF](https://mknittel.github.io/files/Knittel_et_al_ICML_2023.pdf), [arXiv](https://arxiv.org/abs/2205.14198)</small>
 
 **Massively Parallel Tree Embeddings for High Dimensional Spaces**<br/>
 <sup>abc</sup> AmirMohsen Ahanchi, [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/), [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, and [Peilin Zhong](http://www.cs.columbia.edu/~peilin/)<br/>
-<span style="color:#A0A0A0">*Prepared for submission to SPAA.*</span> 
-
-**Faster Parallel Algorithms for Minimum Cut**<br/>
-<sup>abc</sup> Samira Goudarzi, [MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/), Peyman Jabbarzade, Marina Knittel, and Jan Olkowski.<br/> 
-<span style="color:#A0A0A0">*Prepared for submission to SPAA.*</span> 
+*Symposium on Parallelism and Architectures (SPAA), 2023*<br/>
+<small>[PDF](https://mknittel.github.io/files/Ahanchi_et_al_SPAA_2023.pdf)/</small>
 
 **Adaptive Massively Parallel Algorithms for Cut Problems**<br/>
 <sup>abc</sup> [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/), Marina Knittel, Jan Olkowski, and [Hamed Saleh](https://www.cs.umd.edu/~hamed/)<br/>

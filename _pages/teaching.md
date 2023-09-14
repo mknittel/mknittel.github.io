@@ -13,6 +13,7 @@ University of Maryland, College Park
 University of Maryland, College Park
 * **CMSC 456 Cryptography**: Fall 2019
 * **CMSC 250 Discrete Structures**: Fall 2018, Spring 2019
+* **CMSC 351H Algorithms (Honors)**: Fall 2023
 
 Harvey Mudd College
 * **CS 140 Algorithms**: Spring 2017 - Spring 2018
