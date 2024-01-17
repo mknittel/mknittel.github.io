@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! As of Jan 10, I am a postdoc in computer science at UC San Diego. I work with Profs [Barna Saha](https://barnasaha.net/) and [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/).on... to be determined! I am intrested in graph algorithms as the pertain to: (fair) machine learning, mechanism design, massively parallel computation, and more. In Spring '25, I will be an Assistant Professor at Reed College.
+Hello! As of 1/10, I am a postdoc in computer science at UC San Diego. I work with Profs [Barna Saha](https://barnasaha.net/) and [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/) on... to be determined! I am intrested in graph algorithms as the pertain to: (fair) machine learning, mechanism design, massively parallel computation, and more. In Spring '25, I will be an Assistant Professor at Reed College.
 
-I received my PhD from the University of Maryland in 2023, where I studied under Profs [Mohammad Hajiaghayi](http://www.cs.umd.edu/~hajiagha/) and [John Dickerson](http://jpdickerson.com). Previously, I completed my BS in mathematics and computer science at Harvey Mudd College. There, I conducted research with Profs [Jessica Wu](https://www.cs.hmc.edu/~yjw/) and [Jim Boerkoel](https://www.cs.hmc.edu/~boerkoel/), as well as NASA's [Dr. Jeremy Frank](https://ti.arc.nasa.gov/profile/frank/). 
+I received my PhD from the University of Maryland in 2023, where I studied under Profs [Mohammad Hajiaghayi](http://www.cs.umd.edu/~hajiagha/) and [John Dickerson](http://jpdickerson.com). Previously, I completed my BS in mathematics and computer science at Harvey Mudd College. There, I conducted research with Profs [Jessica Wu](https://www.cs.hmc.edu/~yjw/) and [Jim Boerkoel](https://www.cs.hmc.edu/~boerkoel/), as well as NASA's [Dr Jeremy Frank](https://ti.arc.nasa.gov/profile/frank/). 
 
 I have had a wide range of summer experiences throughout my education. Some of my past mentors include [Dr Cenk Sahinalp](https://ccr.cancer.gov/staff-directory/s-cenk-sahinalp), [Prof Avrim Blum](https://ttic.uchicago.edu/~avrim/), [Prof Saeed Seddighin](https://sites.google.com/view/saeedrezaseddighin), [Prof Eric Allender](https://www.cs.rutgers.edu/~allender/), and [Prof Colleen Lewis](http://blogs.hmc.edu/lewis/). I have held tech internships at Google, Amazon, Meta, and Bloomberg.
 

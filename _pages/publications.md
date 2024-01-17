@@ -24,12 +24,12 @@ Computer science traditionally uses competitive conferences (15-30% accepted) as
 
 ## Conference
 **Fair, Polylog-Approximate Low-Cost Hierarchical Clustering**<br/>
-<sup>abc</sup> Marina Knittel, [Max Springer](https://mss423.github.io/), [John P. Dickerson](http://jpdickerson.com/), and [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/)<br/>
-*In submission to NeurIPS.*<br/>
+Marina Knittel, [Max Springer](https://mss423.github.io/), [John P. Dickerson](http://jpdickerson.com/), and [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/)<br/>
+*The Conference on Neural Information Processing Systems (NeurIPS), 2023*<br/>
 <small>[PDF](https://mknittel.github.io/files/Knittel_et_al_2023.pdf)</small>
 
 **Generalized Reductions: Making any Hierarchical Clustering Fair and Balanced with Low Cost**<br/>
-<sup>abc</sup> Marina Knittel, [Max Springer](https://mss423.github.io/), [John P. Dickerson](http://jpdickerson.com/), and [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/)<br/>
+Marina Knittel, [Max Springer](https://mss423.github.io/), [John P. Dickerson](http://jpdickerson.com/), and [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/)<br/>
 *International Conference on Machine Learning (ICML), 2023*<br/>
 <small>[PDF](https://mknittel.github.io/files/Knittel_et_al_ICML_2023.pdf), [arXiv](https://arxiv.org/abs/2205.14198)</small>
 

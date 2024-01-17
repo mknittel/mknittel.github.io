@@ -7,15 +7,15 @@ author_profile: true
 
 Marina Knittel
 
-Room 5104
+Room TBD
 
-Brendan Iribe Center
+Atkinson Hall
 
-University of Maryland, College Park
+University of California, San Diego
 
-College Park, MD, 20742
+La Jolla, CA, 92093
 
 ---
 
 
-Or contact: mknittel AT cs DOT umd DOT edu
+Or contact: mknittel AT ucsd DOT edu
