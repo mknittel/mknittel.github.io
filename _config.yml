@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Marina Knittel"
-  avatar           : "me.png"
-  bio              : "CS PhD candidate at UMD in graph algorithms and big data."
+  avatar           : "me.jpeg"
+  bio              : "Postdoc -- UCSD -- Graph Algorithms"
   location         : #"Location"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=7EB47RUAAAAJ"
-  email            : "mknittel@cs.umd.edu"
+  email            : "mknittel@ucsd.edu"
   researchgate     : "https://www.researchgate.net/profile/Marina_Knittel"
   uri              :
   bitbucket        :
